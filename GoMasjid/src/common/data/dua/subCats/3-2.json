@@ -1,0 +1,19 @@
+{
+    "data": [{
+            "duaId": 1,
+            "englishTranslation": "With the Name of Allah.(1)(If you forgot) With the Name of Allah, in the beginning and in the end.(2)",
+            "transliteration": "Bismillaah.(1) Bismillaahi fee 'awwalihi wa 'aakhirihi.(2)",
+            "arabicVerse": "(1)ِبِسْمِ اللَّه (2) بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِه",
+            "reference": "[Hisnul 178] [Abu Dawud 3/347, At-Tirmizi 4/288.]",
+            "url": "https://admin.gomasjid.co.uk/assets/dua/178hm.mp3"
+        },
+        {
+            "duaId": 2,
+            "englishTranslation": "Whomever Allah has given food, should say: 'O Allah, bless us in it and provide us with better than it'.(1) Whomever Allah has given milk to drink, should say: 'O Allah, bless us in it and give us more of it'.(2)",
+            "transliteration": "Allaahumma baarik lanaa feehi wa 'at'imnaa khayran minhu.(1) Allaahumma baarik lanaa feehi wa zidnaa minhu.(2)",
+            "arabicVerse": "(1)اللَّهُمَّ بَارِكْ لَنَا فيهِ وَأَطْعِمْنَا خَيْراً مِنْهُ (2) اللّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ",
+            "reference": "[Hisnul 179] [At-Tirmizi 5/506.]",
+            "url": "https://admin.gomasjid.co.uk/assets/dua/179hm.mp3"
+        }
+    ]
+}

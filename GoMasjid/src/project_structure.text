@@ -1,0 +1,88 @@
+- AppContent.tsx
+- assets
+  - fonts
+    - Al-Qalam-Quran.ttf
+    - WorkSans-Regular.ttf
+  - images
+    - background.png
+    - bottom-black.png
+    - bottom.png
+    - brightness.png
+    - choosen.png
+    - close.png
+    - GM_app_icon.png
+    - gs-app-icon.png
+    - gs_app_icon.png
+    - left-black.png
+    - left.png
+    - quran
+      - bismillah.png
+      - Frame.png
+      - hamburgerMenu.png
+      - hexagon.png
+      - IconsBookMark.png
+      - juzzIcon.png
+      - juzzIcongreen.png
+      - kabba.png
+      - Medina.png
+      - megnifine.png
+      - QuranDashboardBackground.png
+      - quranIcon.png
+      - quranIconPurpule.png
+      - quranVector.png
+      - selectedReciter.png
+      - Verified.png
+    - right-black.png
+    - right.png
+    - top-black.png
+    - top.png
+- common
+  - Accordion.tsx
+  - BookMark.tsx
+  - BoxShadow.tsx
+  - CustomModal.tsx
+  
+  - RadioButton.tsx
+  - Shapes.tsx
+- context
+  - SettingsProvider.tsx
+  - ThemeProvider.tsx
+  - UserProvider.tsx
+- QuranLayout
+  - Footer.tsx
+  - JuzHeader.tsx
+  - PageView.tsx
+  - Player.tsx
+  - PlayerOld.tsx
+  - SurahHeader.tsx
+  - TajweedRenderer.tsx
+  - TajweedRenderPage.tsx
+  - VerseItem.tsx
+  - VerseItemOld.tsx
+- screens
+  - ProfileScreens
+  - QuranScreens
+    - Bookmark.tsx
+    - QuranDashboard.tsx
+    - QuranNavigation.tsx
+    - ReadQuran-Styles.tsx
+    - ReadQuran.tsx
+    - Reciters.tsx
+    - SelectTranslation.tsx
+    - SettingScreen.tsx
+    - Tafsir.tsx
+- services
+  - AsyncServices.tsx
+  - audio-old.ts
+  - audio.ts
+  - audioDownload.ts
+  - index.tsx
+  - Quran
+    - index.tsx
+- stores
+  - playerStore.tsx
+  - settingsStore.tsx
+- styles
+  - theme.tsx
+- types
+  - quran.ts

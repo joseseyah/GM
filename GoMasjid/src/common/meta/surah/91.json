@@ -1,0 +1,165 @@
+{
+    "meta": {
+        "number": 91,
+        "name": "Ash-Shams",
+        "type": "surah",
+        "translated_name": "The Sun",
+        "revelation_place": "makkah",
+        "total_ayah": 15,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "91:1",
+            "text_indopak": "وَالشَّمۡسِ وَضُحٰٮهَا  ۙ‏",
+            "text_uthmani": " وَٱلشَّمْسِ وَضُحَىٰهَا",
+            "phonetic_transliterations": "Wash shamsi wa duhaa haa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّمْسِ وَضُحَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "91:2",
+            "text_indopak": "وَالۡقَمَرِ اِذَا تَلٰٮهَا  ۙ‏",
+            "text_uthmani": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+            "phonetic_transliterations": "Wal qamari izaa talaa haa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لْقَمَرِ إِذَا تَلَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "91:3",
+            "text_indopak": "وَالنَّهَارِ اِذَا جَلّٰٮهَا ۙ‏",
+            "text_uthmani": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+            "phonetic_transliterations": "Wannahaari izaa jallaa haa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َهَارِ إِذَا جَلَّ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 4,
+            "verse_key": "91:4",
+            "text_indopak": "وَالَّيۡلِ اِذَا يَغۡشٰٮهَا ۙ‏",
+            "text_uthmani": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+            "phonetic_transliterations": "Wallaili izaa yaghshaa haa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّيْلِ إِذَا يَغْشَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 5,
+            "verse_key": "91:5",
+            "text_indopak": "وَالسَّمَآءِ وَمَا بَنٰٮهَا ۙ‏",
+            "text_uthmani": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+            "phonetic_transliterations": "Wassamaaa'i wa maa banaahaa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءِ وَمَا بَنَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>٥</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 6,
+            "verse_key": "91:6",
+            "text_indopak": "وَالۡاَرۡضِ وَمَا طَحٰٮهَا ۙ‏",
+            "text_uthmani": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+            "phonetic_transliterations": "Wal ardi wa maa tahaahaa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ وَمَا طَحَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>٦</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 7,
+            "verse_key": "91:7",
+            "text_indopak": "وَنَفۡسٍ وَّمَا سَوّٰٮهَا ۙ‏",
+            "text_uthmani": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+            "phonetic_transliterations": "Wa nafsinw wa maa sawwaahaa",
+            "tajweed_text": "وَنَفْ<tajweed class=idgham_ghunnah>سٍ و</tajweed>َمَا سَوَّ<tajweed class=madda_normal>ٮٰ</tajweed>هَا <span class=end>٧</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 8,
+            "verse_key": "91:8",
+            "text_indopak": "فَاَلۡهَمَهَا فُجُوۡرَهَا وَتَقۡوٰٮهَا ۙ‏",
+            "text_uthmani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+            "phonetic_transliterations": "Fa-alhamahaa fujoorahaa wa taqwaahaa",
+            "tajweed_text": "فَأَلْهَمَهَا فُجُورَهَا وَتَ<tajweed class=qalaqah>قْ</tajweed>وَ<tajweed class=madda_normal>ٮٰ</tajweed>هَا <span class=end>٨</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 9,
+            "verse_key": "91:9",
+            "text_indopak": "قَدۡ اَفۡلَحَ مَنۡ زَكّٰٮهَا ۙ‏",
+            "text_uthmani": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+            "phonetic_transliterations": "Qad aflaha man zakkaahaa",
+            "tajweed_text": "قَ<tajweed class=qalaqah>دْ</tajweed> أَفْلَحَ مَ<tajweed class=ikhafa>ن ز</tajweed>َكَّ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>٩</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 10,
+            "verse_key": "91:10",
+            "text_indopak": "وَقَدۡ خَابَ مَنۡ دَسّٰٮهَا ؕ‏",
+            "text_uthmani": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+            "phonetic_transliterations": "Wa qad khaaba man dassaahaa",
+            "tajweed_text": "وَقَ<tajweed class=qalaqah>دْ</tajweed> خَابَ مَ<tajweed class=ikhafa>ن د</tajweed>َسَّ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>١٠</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 11,
+            "verse_key": "91:11",
+            "text_indopak": "كَذَّبَتۡ ثَمُوۡدُ بِطَغۡوٰٮهَآ  ۙ‏",
+            "text_uthmani": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+            "phonetic_transliterations": "Kazzabat Samoodu bi taghwaahaaa",
+            "tajweed_text": "كَذَّبَتْ ثَمُودُ بِطَغْوَ<tajweed class=madda_normal>ٮٰ</tajweed>هَآ <span class=end>١١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 12,
+            "verse_key": "91:12",
+            "text_indopak": "اِذِ انۡۢبَعَثَ اَشۡقٰٮهَا  ۙ‏",
+            "text_uthmani": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+            "phonetic_transliterations": "Izim ba'asa ashqaahaa",
+            "tajweed_text": "إِذِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=iqlab>نۢب</tajweed>َعَثَ أَشْقَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>١٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 13,
+            "verse_key": "91:13",
+            "text_indopak": "فَقَالَ لَهُمۡ رَسُوۡلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقۡيٰهَا ؕ‏",
+            "text_uthmani": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+            "phonetic_transliterations": "Faqaala lahum Rasoolul laahi naaqatal laahi wa suqiyaahaa",
+            "tajweed_text": "فَقَالَ لَهُمْ رَسُولُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ نَاقَةَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ وَسُ<tajweed class=qalaqah>قْ</tajweed>يَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>١٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 14,
+            "verse_key": "91:14",
+            "text_indopak": "فَكَذَّبُوۡهُ فَعَقَرُوۡهَا   ۙفَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُمۡ بِذَنۡۢبِهِمۡ فَسَوّٰٮهَا  ۙ‏",
+            "text_uthmani": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+            "phonetic_transliterations": "Fakazzaboohu fa'aqaroohaa fadamdama 'alaihim Rabbuhum bizambihim fasaw waahaa",
+            "tajweed_text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِذَ<tajweed class=iqlab>نۢب</tajweed>ِهِمْ فَسَوَّ<tajweed class=madda_normal>ٮٰ</tajweed>هَا <span class=end>١٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 15,
+            "verse_key": "91:15",
+            "text_indopak": "وَلَا يَخَافُ عُقۡبٰهَا‏",
+            "text_uthmani": "وَلَا يَخَافُ عُقْبَـٰهَا",
+            "phonetic_transliterations": "Wa laa yakhaafu'uqbaahaa",
+            "tajweed_text": "وَلَا يَخَافُ عُ<tajweed class=qalaqah>قْ</tajweed>بَ<tajweed class=madda_normal>ـٰ</tajweed>هَا <span class=end>١٥</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}

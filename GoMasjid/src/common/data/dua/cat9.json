@@ -1,0 +1,90 @@
+{
+    "id": 9,
+    "title": "Home & Family",
+    "subCats": [
+        {
+            "catId": 9,
+            "id": 1,
+            "title": "When wearing a garment",
+            "uri": "9-1"
+        },
+        {
+            "catId": 9,
+            "id": 2,
+            "title": "To someone wearing a new garment",
+            "uri": "9-2"
+        },
+        {
+            "catId": 9,
+            "id": 3,
+            "title": "When wearing a new garment",
+            "uri": "9-3"
+        },
+        {
+            "catId": 9,
+            "id": 4,
+            "title": "Before undressing",
+            "uri": "9-4"
+        },
+        {
+            "catId": 9,
+            "id": 5,
+            "title": "Before entering the toilet",
+            "uri": "9-5"
+        },
+        {
+            "catId": 9,
+            "id": 6,
+            "title": "After leaving the toilet",
+            "uri": "9-6"
+        },
+        {
+            "catId": 9,
+            "id": 7,
+            "title": "Upon leaving the home",
+            "uri": "9-7"
+        },
+        {
+            "catId": 9,
+            "id": 8,
+            "title": "When entering the home",
+            "uri": "9-8"
+        },
+        {
+            "catId": 9,
+            "id": 9,
+            "title": "For expelling the devil and his whisperings",
+            "uri": "9-9"
+        },
+        {
+            "catId": 9,
+            "id": 10,
+            "title": "To the newlywed",
+            "uri": "9-10"
+        },
+        {
+            "catId": 9,
+            "id": 11,
+            "title": "Before sexual intercourse",
+            "uri": "9-11"
+        },
+        {
+            "catId": 9,
+            "id": 12,
+            "title": "When in fear of afflicting something or someone with one's eye",
+            "uri": "9-12"
+        },
+        {
+            "catId": 9,
+            "id": 13,
+            "title": "To ward off the deception of the obstinate devils",
+            "uri": "9-13"
+        },
+        {
+            "catId": 9,
+            "id": 14,
+            "title": "General and beneficent rules",
+            "uri": "9-14"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": 5,
+    "title": "Sick & Death",
+    "subCats": [
+        {
+            "catId": 5,
+            "id": 1,
+            "title": "Placing children under Allah's protection",
+            "uri": "5-1"
+        },
+        {
+            "catId": 5,
+            "id": 2,
+            "title": "When visiting the sick",
+            "uri": "5-2"
+        },
+        {
+            "catId": 5,
+            "id": 3,
+            "title": "Excellence of visiting the sick",
+            "uri": "5-3"
+        },
+        {
+            "catId": 5,
+            "id": 4,
+            "title": "When the sick have renounced all hope of life",
+            "uri": "5-4"
+        },
+        {
+            "catId": 5,
+            "id": 5,
+            "title": "Instruction for the one nearing death",
+            "uri": "5-5"
+        },
+        {
+            "catId": 5,
+            "id": 6,
+            "title": "For one afflicted by a calamity",
+            "uri": "5-6"
+        },
+        {
+            "catId": 5,
+            "id": 7,
+            "title": "When closing the eyes of the deceased",
+            "uri": "5-7"
+        },
+        {
+            "catId": 5,
+            "id": 8,
+            "title": "For the deceased at the funeral prayer",
+            "uri": "5-8"
+        },
+        {
+            "catId": 5,
+            "id": 9,
+            "title": "For the deceased is a child, during the funeral prayer",
+            "uri": "5-9"
+        },
+        {
+            "catId": 5,
+            "id": 10,
+            "title": "Condolence",
+            "uri": "5-10"
+        },
+        {
+            "catId": 5,
+            "id": 11,
+            "title": "Placing the deceased in the graved",
+            "uri": "5-11"
+        },
+        {
+            "catId": 5,
+            "id": 12,
+            "title": "After burying the deceased",
+            "uri": "5-12"
+        },
+        {
+            "catId": 5,
+            "id": 13,
+            "title": "Visiting the graves",
+            "uri": "5-13"
+        },
+        {
+            "catId": 5,
+            "id": 14,
+            "title": "When feeling some pain in the body",
+            "uri": "5-14"
+        }
+    ]
+}

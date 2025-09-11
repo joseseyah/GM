@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "number": 93,
+        "name": "Ad-Duhaa",
+        "type": "surah",
+        "translated_name": "The Morning Hours",
+        "revelation_place": "makkah",
+        "total_ayah": 11,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "93:1",
+            "text_indopak": "وَالضُّحٰىۙ‏",
+            "text_uthmani": " وَٱلضُّحَىٰ",
+            "phonetic_transliterations": "Wad duhaa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضُّحَىٰ <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "93:2",
+            "text_indopak": "وَالَّيۡلِ اِذَا سَجٰىۙ‏",
+            "text_uthmani": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+            "phonetic_transliterations": "Wal laili iza sajaa",
+            "tajweed_text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّيْلِ إِذَا سَجَىٰ <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "93:3",
+            "text_indopak": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىؕ‏",
+            "text_uthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+            "phonetic_transliterations": "Ma wad da'aka rabbuka wa ma qalaa",
+            "tajweed_text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 4,
+            "verse_key": "93:4",
+            "text_indopak": "وَلَـلۡاٰخِرَةُ خَيۡرٌ لَّكَ مِنَ الۡاُوۡلٰىؕ‏",
+            "text_uthmani": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+            "phonetic_transliterations": "Walal-aakhiratu khairul laka minal-oola",
+            "tajweed_text": "وَلَلْأَخِرَةُ خَيْ<tajweed class=idgham_wo_ghunnah>رٌ ل</tajweed>َّكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْأُولَىٰ <span class=end>٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 5,
+            "verse_key": "93:5",
+            "text_indopak": "وَلَسَوۡفَ يُعۡطِيۡكَ رَبُّكَ فَتَرۡضٰىؕ‏",
+            "text_uthmani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+            "phonetic_transliterations": "Wa la sawfa y'uteeka rabbuka fatarda",
+            "tajweed_text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ <span class=end>٥</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 6,
+            "verse_key": "93:6",
+            "text_indopak": "اَلَمۡ يَجِدۡكَ يَتِيۡمًا فَاٰوٰى‏",
+            "text_uthmani": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+            "phonetic_transliterations": "Alam ya jidka yateeman fa aawaa",
+            "tajweed_text": "أَلَمْ يَجِ<tajweed class=qalaqah>دْ</tajweed>كَ يَتِي<tajweed class=ikhafa>مًا ف</tajweed>َـَٔـاوَىٰ <span class=end>٦</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 7,
+            "verse_key": "93:7",
+            "text_indopak": "وَوَجَدَكَ ضَآ لًّا فَهَدٰى‏",
+            "text_uthmani": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+            "phonetic_transliterations": "Wa wa jadaka daal lan fahada",
+            "tajweed_text": "وَوَجَدَكَ ضَآل<tajweed class=ikhafa>اًّ ف</tajweed>َهَدَىٰ <span class=end>٧</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 8,
+            "verse_key": "93:8",
+            "text_indopak": "وَوَجَدَكَ عَآٮِٕلًا فَاَغۡنٰىؕ‏",
+            "text_uthmani": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+            "phonetic_transliterations": "Wa wa jadaka 'aa-ilan fa aghnaa",
+            "tajweed_text": "وَوَجَدَكَ ع<tajweed class=madda_obligatory>َا</tajweed>ٓئِل<tajweed class=ikhafa>اً ف</tajweed>َأَغْنَىٰ <span class=end>٨</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 9,
+            "verse_key": "93:9",
+            "text_indopak": "فَاَمَّا الۡيَتِيۡمَ فَلَا تَقۡهَرۡؕ‏",
+            "text_uthmani": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+            "phonetic_transliterations": "Fa am mal yateema fala taqhar",
+            "tajweed_text": "فَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed>لْيَتِيمَ فَلَا تَ<tajweed class=qalaqah>قْ</tajweed>هَرْ <span class=end>٩</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 10,
+            "verse_key": "93:10",
+            "text_indopak": "وَاَمَّا السَّآٮِٕلَ فَلَا تَنۡهَرۡؕ‏",
+            "text_uthmani": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+            "phonetic_transliterations": "Wa am mas saa-ila fala tanhar",
+            "tajweed_text": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سّ<tajweed class=madda_obligatory>َا</tajweed>ٓئِلَ فَلَا تَنْهَرْ <span class=end>١٠</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 11,
+            "verse_key": "93:11",
+            "text_indopak": "وَاَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ‏",
+            "text_uthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+            "phonetic_transliterations": "Wa amma bi ni'mati rabbika fahad dith",
+            "tajweed_text": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ <span class=end>١١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}

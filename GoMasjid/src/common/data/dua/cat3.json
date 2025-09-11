@@ -1,0 +1,48 @@
+{
+    "id": 3,
+    "title": "Food & Drinks",
+    "subCats": [
+        {
+            "catId": 3,
+            "id": 1,
+            "title": "Upon breaking fast",
+            "uri": "3-1"
+        },
+        {
+            "catId": 3,
+            "id": 2,
+            "title": "Before eating",
+            "uri": "3-2"
+        },
+        {
+            "catId": 3,
+            "id": 3,
+            "title": "Upon completing the meal",
+            "uri": "3-3"
+        },
+        {
+            "catId": 3,
+            "id": 4,
+            "title": "Of the guest for the host",
+            "uri": "3-4"
+        },
+        {
+            "catId": 3,
+            "id": 5,
+            "title": "To one offering a drink or to one who intended to do that",
+            "uri": "3-5"
+        },
+        {
+            "catId": 3,
+            "id": 6,
+            "title": "When breaking fast in someone’s home",
+            "uri": "3-6"
+        },
+        {
+            "catId": 3,
+            "id": 7,
+            "title": "By one fasting when presented with food and does not break his fast",
+            "uri": "3-7"
+        }
+    ]
+}

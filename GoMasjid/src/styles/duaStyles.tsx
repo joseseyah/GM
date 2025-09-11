@@ -1,0 +1,346 @@
+import {Platform} from 'react-native';
+import {Dimensions, StyleSheet} from 'react-native';
+import { themeFont } from './theme';
+// import theme from './theme';
+const {height, width} = Dimensions.get('window');
+
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    paddingHorizontal: 15,
+    paddingTop: Platform.OS === 'ios' ? 40 : 10,
+    marginBottom: Platform.OS === 'ios' ? 80 : 60,
+  },
+  topContainer: {
+    display: 'flex',
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginTop: 15,
+    justifyContent: 'space-between',
+    paddingHorizontal: 5,
+  },
+  topBarImage: {
+    backgroundColor: 'white',
+    width: 56,
+    height: 76,
+  },
+
+  imageStyle: {
+    flex: 1,
+    resizeMode: 'cover',
+    width: width,
+    height: height,
+  },
+
+  topBarImageExplore: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+    backgroundColor: 'rgba(255, 255, 255, 0.08)',
+    borderRadius: 8.04,
+    borderWidth: 1,
+    borderColor: 'rgba(255, 255, 255, 0.35)',
+  },
+  topBarImageExplore1: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    // backgroundColor: '#D9D9D9',
+    backgroundColor: '#1995AD',
+    paddingVertical: 10,
+    width: width / 2 - 20,
+    borderRadius: 15,
+  },
+  exploreSectionText: {
+    fontSize: 12,
+    color: '#fff',
+    textAlign: 'center',
+  },
+  SectionText: {
+    fontSize: 12,
+    fontWeight: '500',
+    textAlign: 'center',
+    color: '#FFF',
+    fontFamily: themeFont.englishFont,
+  },
+  subContainer: {
+    backgroundColor: '#EEEBEA',
+  },
+  carouselContainer: {
+    height: (6 + 1) * 56,
+  },
+  dateContainer: {
+    marginHorizontal: 10,
+  },
+  title: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: '700',
+  },
+  sectionHeader: {
+    color: '#000000',
+    textAlign: 'center',
+    fontWeight: '700',
+    fontSize: 18,
+    marginBottom: 10,
+    marginTop: 10,
+  },
+  topBarContainer: {
+    marginTop: 10,
+    marginBottom: 20,
+    flexDirection: 'row',
+    width: '100%',
+    height: 40,
+    backgroundColor: '#285887',
+    justifyContent: 'space-evenly',
+  },
+  imageContainer: {
+    alignItems: 'center',
+    marginTop: Platform.OS === 'ios' ? 50 : 10,
+  },
+  image: {
+    width: 100,
+    height: 50,
+  },
+  topBarContent: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    flexDirection: 'row',
+  },
+  timeContainer: {
+    display: 'flex',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingVertical: 10,
+    paddingHorizontal: 12,
+    borderRadius: 8,
+    marginBottom: 5,
+    marginHorizontal: 12,
+    backgroundColor: '#6D7278',
+  },
+  leftContainer: {
+    // flex: 1,
+    // alignItems: 'center',
+    // flexDirection: 'row',
+    // justifyContent: 'flex-start',
+  },
+  rightContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    // justifyContent: 'flex-end',
+    alignItems: 'center',
+  },
+  textColor: {
+    color: '#000000',
+  },
+  timeText: {
+    color: '#ffffff',
+  },
+  whiteColor: {
+    color: '#ffffff',
+  },
+  modalTitle: {
+    fontSize: 16,
+    color: '#000000',
+    textAlign: 'center',
+    fontFamily: themeFont.englishFont,
+  },
+  description: {
+    fontSize: 14,
+    color: '#000000',
+    marginTop: 10,
+  },
+  centeredView: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: 22,
+  },
+  modalView: {
+    margin: 20,
+    backgroundColor: 'white',
+    borderRadius: 20,
+    padding: 15,
+  },
+  button: {
+    marginTop: 30,
+    paddingVertical: 15,
+    backgroundColor: '#8352EC',
+    borderRadius: 15,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  buttonOpen: {
+    backgroundColor: '#F194FF',
+  },
+  buttonClose: {
+    backgroundColor: '#2196F3',
+  },
+  textStyle: {
+    color: 'white',
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  modalText: {
+    marginBottom: 15,
+    textAlign: 'center',
+  },
+  prayerTimeImage: {
+    height: 76,
+    width: 56,
+    marginRight: 1,
+    borderRadius: 10,
+  },
+  prayerTimeTextContainer: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  prayerName: {
+    fontSize: 12,
+    textAlign: 'center',
+    color: '#1995AD',
+    marginTop: 10,
+  },
+  prayerTimeText: {
+    fontSize: 14,
+    color: '#F1F1F2',
+  },
+  overlayView: {
+    height: '100%',
+    width: '100%',
+    position: 'absolute',
+    borderRadius: 10,
+    backgroundColor: 'rgba(0, 0, 0, 0.50)',
+  },
+  card: {
+    backgroundColor: '#8352EC',
+    marginTop: 10,
+    borderRadius: 15,
+    paddingHorizontal: 20,
+    paddingVertical: 20,
+    flexDirection: 'row',
+  },
+  cardTwo: {
+    backgroundColor: 'rgba(255, 255, 255, 0.20)',
+    borderRadius: 25,
+    borderWidth: 1,
+    borderColor: 'rgba(255, 255, 255, 0.21)',
+    padding: 20,
+    marginTop: 10,
+    gap: 10,
+    marginHorizontal: 5,
+  },
+  buttonText: {
+    color: 'white',
+    fontSize: 16,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  topBarHeader: {
+    flex: 1,
+    textAlign: 'right',
+    fontWeight: '600',
+    color: '#FFF',
+    fontSize: 12,
+    fontFamily: themeFont.englishFont,
+    lineHeight: 14.08,
+    marginRight: 10,
+  },
+  topBar: {
+    fontFamily: themeFont.englishFont,
+    paddingVertical: 15,
+    // paddingHorizontal: 5,
+    display: 'flex',
+    flexDirection: 'row',
+    alignItems: 'center',
+    // justifyContent: 'space-between',
+  },
+  scrollView: {
+    flex: 1,
+    backgroundColor: '#F5F5F5',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  exploreRow: {
+    display: 'flex',
+    flexDirection: 'row',
+    justifyContent: 'flex-start',
+    // marginHorizontal: 15,
+    gap: 10,
+    marginTop: 10,
+    marginBottom: 10,
+  },
+  exploreContainer: {
+    marginTop: 10,
+    marginBottom: 10,
+  },
+
+  explore1Container: {
+    marginBottom: 10,
+    backgroundColor: '#FFFF',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    // paddingHorizontal: 10,
+    borderRadius: 20,
+    padding: 20,
+    width: '100%',
+    height: 120,
+  },
+  exploreCard: {
+    flexDirection: 'row',
+    // backgroundColor: '#FFFF',
+    alignItems: 'center',
+    // padding: 20,
+    // borderRadius: 20,
+    // marginBottom: 20, // Adjust spacing between cards as needed
+  },
+
+  exploreImage: {
+    width: 90,
+    height: 90,
+    marginRight: 20,
+  },
+  exploreTextContainer: {
+    flex: 1,
+  },
+  exploreTitle: {
+    paddingBottom: 10,
+    fontSize: 20,
+    fontWeight: '500',
+  },
+  exploreSubtitle: {
+    fontSize: 14,
+    fontWeight: '300',
+  },
+
+  searchBarContainer: {
+    marginTop: 30,
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#FFF',
+    borderRadius: 18.21,
+    boxShadow: '0 4px 30px rgba(0, 0, 0, 0.1)',
+    backdropFilter: 'blur(3px)',
+    borderColor: '#7A7A7A80',
+    borderWidth: 1,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    marginHorizontal: 5,
+    // width: 307.87,
+    // height: 29.14,
+  },
+  icon: {
+    marginRight: 10,
+  },
+  searchInput: {
+    flex: 1,
+    fontSize: 12,
+    fontWeight: '400',
+    fontFamily: themeFont.englishFont,
+    fontStyle: 'italic',
+    lineHeight: 12.9,
+  },
+});

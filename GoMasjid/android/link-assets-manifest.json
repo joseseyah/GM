@@ -1,0 +1,553 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Al-Qalam-Quran.ttf",
+      "sha1": "6d8665ffc5dd8b88457eb39ebef3fd097f6b9772"
+    },
+    {
+      "path": "src/assets/fonts/WorkSans-Regular.ttf",
+      "sha1": "5a5c31a7166d40d51d018daed7c654cb34d641a6"
+    },
+    {
+      "path": "src/assets/fonts/uthmaniScript.ttf",
+      "sha1": "85fc7a75fbdba2976ab4664d80cf39d39705ec73"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+      "sha1": "12b5670eb178138f77285d5f2c246d3cc5fa67d6"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+      "sha1": "e6604258b1ced5efd51360875d782fca65381d47"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+      "sha1": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+      "sha1": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+      "sha1": "c1b9fae262f42868c075ac865a8ab34920e20a2c"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome6_Brands.ttf",
+      "sha1": "7ce89c71d5a51ac65b159c71422783dd86529c66"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome6_Regular.ttf",
+      "sha1": "775e2ecfc18d22b177274453d4c014ca6be63208"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf",
+      "sha1": "2b8e11389d98122399667cf64941eb58497dc128"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+      "sha1": "86e07c3d974eb09099e6e5a9b3b8310303cf0feb"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+      "sha1": "4c2a838b00dbb5e8bb1b368fce0de534e8eb241c"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+      "sha1": "7e02c3f005532ff4d24148567c84089756a7848a"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+      "sha1": "56acefc0731f35ee23b195b1c8cb5fa94a0db97b"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+      "sha1": "6a48a962b06cc3acbdfd61df0d9a34744eea5e8d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/1.json",
+      "sha1": "416fb61b9f15301f71b0d2268c850229132f459d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/10.json",
+      "sha1": "8ca275decd2a831f557390ad8828626373ee8202"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/11.json",
+      "sha1": "3659bb7b5f1d5127a08b0a65a3e07c21ac4758a9"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/12.json",
+      "sha1": "85773a8c3397bb95a5ac33aa19d1485e1900ef5e"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/13.json",
+      "sha1": "0629f8ce1a61c52e364daad25b3386b16c33acde"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/14.json",
+      "sha1": "7ede047bb9ed25e0b02c59a978d452c8a39ae138"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/15.json",
+      "sha1": "e24918106f98fb755210e07e75b21b146255d470"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/16.json",
+      "sha1": "c7133daef9cc822ce2f1e5ff5d1dc259db195109"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/17.json",
+      "sha1": "7f6505803d97219a47dcf690f0b5b24743d90354"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/18.json",
+      "sha1": "90f3bee4cbaef580d8e90aaa80ac91faac2be409"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/19.json",
+      "sha1": "c1cda890c0485e50aee67b9fc82e66e45659c50e"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/2.json",
+      "sha1": "981a08e9b8e1c2d9a1ca002cc5f09cc402ad7d20"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/20.json",
+      "sha1": "e5abe686bbc5c79f2f1052370bdb9d98561bc56f"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/21.json",
+      "sha1": "d70304428ae6d3e8e5d29439785f36d74cbaa738"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/22.json",
+      "sha1": "74383ca691b83f21939771a270037a56619b7893"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/23.json",
+      "sha1": "5ad101c46204bd67fe78d42ec36a89afb1e1f095"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/24.json",
+      "sha1": "451feeb14ba88805ae352e8fdc5c35e56cdefefd"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/25.json",
+      "sha1": "283a9e9334243994682510cebe993837bd135777"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/26.json",
+      "sha1": "d8cd5c71426ec3fe6e51b8a42c8d5fc67764ab85"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/27.json",
+      "sha1": "316ef4c714a55ca7b7ac69a51b1a79b84198ba4d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/28.json",
+      "sha1": "1974d3e1125f1c29da14f18ec1198462e984d744"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/29.json",
+      "sha1": "c0aed3997417294a450de9471b13db73b184bf89"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/3.json",
+      "sha1": "aaa1a781e60b4168756be09ed3cd25e53b806c1c"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/30.json",
+      "sha1": "e844d187584d7b898a1fb833bfdcfb729f458a36"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/4.json",
+      "sha1": "23fea617a409105f8320f300a2df8e525cf3f992"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/5.json",
+      "sha1": "c407a370a20d02fa31d273143627270645fe880b"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/6.json",
+      "sha1": "d37e96f63607d5844672a6fccc7ab653097da20f"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/7.json",
+      "sha1": "2165c5b71d152a205edc4bdc33f345c5713deff5"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/8.json",
+      "sha1": "e50ab618c542f3947273f546a2a1a9967790bf01"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/juz/9.json",
+      "sha1": "f628c37d0bcf08599f1047fd25d040d7a80f0738"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/100.json",
+      "sha1": "3c85a5e17dea986381a4bd4af22c82f9d25245dd"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/101.json",
+      "sha1": "e55d213c6046c1d564b2d88d6de0038b1e447d30"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/102.json",
+      "sha1": "7579b2f8c7930748bdf29f724bf6064ace6ee6bb"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/103.json",
+      "sha1": "f418fa4cd3095183a3ed1edc0065a6b9180ccbf2"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/104.json",
+      "sha1": "597dab38e0c773b672bf7a3e0fe16a5b0fe4ed10"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/105.json",
+      "sha1": "4c0eb1a6267e19c01f9e4f990429c387223e3169"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/106.json",
+      "sha1": "4b489ef0d662a2355dd0526ec31ff2d51026599e"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/107.json",
+      "sha1": "b9a395efbe89cfc1e5500f4ae5bd26f421be88bc"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/108.json",
+      "sha1": "9fcf3a1a502476b6f2ac0f70a3c6d86722892298"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/109.json",
+      "sha1": "fefac8feca7ac937e360f3d4a5bf638b38b97046"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/110.json",
+      "sha1": "eeefd1692fc1cbcb4c2a6e539c697b84e6ec8a8d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/111.json",
+      "sha1": "672e6db3c47e1a3fd67d961bb8a4589415e170f4"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/112.json",
+      "sha1": "cfaaa68f9bc243b5f435139ec2b5acf1f5798a20"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/113.json",
+      "sha1": "84ec43d8ef792c7f582305e0971a2ef6f423dd98"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/114.json",
+      "sha1": "1caa41374cc2a08c9cfa746e328feaf105da0b07"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/31.json",
+      "sha1": "e5b7c866b89453fcc32adf3ff7a488192cbfffc1"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/32.json",
+      "sha1": "d924158e3612a992eab2c0237a8724f43990188c"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/33.json",
+      "sha1": "ff6d8d717daaba131ad64a6a7fc7ae95aa321757"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/34.json",
+      "sha1": "a3ec3282034166711f4e96a9d979320be3e0b16d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/35.json",
+      "sha1": "808b08e1de834db03289abc86a3ba4663922a220"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/36.json",
+      "sha1": "58fc706c1beb6bceb8618d188a550763c192137d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/37.json",
+      "sha1": "566a731286802a51e17284bda66723acc0e84669"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/38.json",
+      "sha1": "0354223ff40fb1265e3d66e9888586898ce384ae"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/39.json",
+      "sha1": "16a90ef4fefa85ef8da5ea09c1c410ac23698482"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/40.json",
+      "sha1": "bfd4f523a02b79a8cdc204905a92065d93e22abe"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/41.json",
+      "sha1": "eb43a00d306975b020ae27810c295df8d8d2f00f"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/42.json",
+      "sha1": "99dfc276529923742446e81d838f018b116601fc"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/43.json",
+      "sha1": "c24431aa3c058d56996cca3282e99faebd3199c5"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/44.json",
+      "sha1": "e4e211573940279dde2d19267f9df5fb5977141a"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/45.json",
+      "sha1": "da5dd473fb8d7998103c2d4654a5bd83410d9127"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/46.json",
+      "sha1": "dc5621e504c770f4b09374e07abff9e8e96d87ee"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/47.json",
+      "sha1": "eeaa2d94e89c8f32f3828331ceeca994f568327a"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/48.json",
+      "sha1": "d411f81130d85f21e3dd6db998605a5afd4fc522"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/49.json",
+      "sha1": "a041f09d499c7c6139bc5d841af05c148960e712"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/50.json",
+      "sha1": "256efc70cc7702f12003f5db5646e74c3d35e58d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/51.json",
+      "sha1": "dd15eaf5da34471e22af0ab8655007a2db6006c5"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/52.json",
+      "sha1": "eedcec477598ec19397ba5a22261adf29551558d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/53.json",
+      "sha1": "c13753b425110bd2f6d595007dee93dc4c70a807"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/54.json",
+      "sha1": "2796538f0ee9774def2d1830b72b94985bba8447"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/55.json",
+      "sha1": "040b05655bb73e3982929846b11f123692f9f979"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/56.json",
+      "sha1": "0e06bb61593cf7ca902d9a97aae550b5427c68c0"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/57.json",
+      "sha1": "568865f053f4ae156b41b578ad75b52bd12cd2b1"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/58.json",
+      "sha1": "11e58fdf798c5dc0edf04e38312a72c79cfdef73"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/59.json",
+      "sha1": "2b22d11f875f0a6c35a1e0b3b80003080c12ddfc"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/60.json",
+      "sha1": "1d5efd9596ee4785b57662c3b21a6c7484210b1f"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/61.json",
+      "sha1": "9f50c0b11ce71a69a3d299f9cf28ae5bfd32fec8"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/62.json",
+      "sha1": "9e3be84a64291e4cdf3954828e16371a893546b6"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/63.json",
+      "sha1": "e0171a5eccc2b8b752e1a5c61dd308b88ae433be"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/64.json",
+      "sha1": "2638430cd4b47577e0e538e37b95f6361c7e92d9"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/65.json",
+      "sha1": "a0735fc63d0fd02e4cdb84080f06fc3e75cdfec7"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/66.json",
+      "sha1": "78bdfd240088c253a32161778d87e4979ac0df3d"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/67.json",
+      "sha1": "5c5bda9a05245f9e9bca33673c0065fe6da8491b"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/68.json",
+      "sha1": "7c5e6440a046f6356deafcfb723a97ec32ce206b"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/69.json",
+      "sha1": "789e5e75714c947bdd3df0fa7cd9d9899444b5aa"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/70.json",
+      "sha1": "1ab6c3fb11cd49213dcd5bf0a8ca01cec2b57ac3"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/71.json",
+      "sha1": "8ac674041ab6978a3cc2d349a1b3b264742e7638"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/72.json",
+      "sha1": "ec94a8c4d8a604748041e8bb284d8e31084e1b00"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/73.json",
+      "sha1": "9a8743c61e0d1c8f7efba96c170b02bb7bea6ba4"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/74.json",
+      "sha1": "fd8177bbfd791b008db2096742220c22bda98294"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/75.json",
+      "sha1": "2999b2a10eb3cd20fe61e6b56b6c4d210e429ee9"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/76.json",
+      "sha1": "aaf3389fda1dd2b184debefbf4472ddcce0303a5"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/77.json",
+      "sha1": "d77c546bfb3f484e8e4afe822346964699aa37fc"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/78.json",
+      "sha1": "fac7c37f10e121239857a17cf7c2100669300609"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/79.json",
+      "sha1": "f2545087420d44ad36291cab60e82b065cca0a5a"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/80.json",
+      "sha1": "c9793937baf02dee66e5017d90a3537157b2cbbb"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/81.json",
+      "sha1": "b3ac33e6725de9b592cc69c761f4af759fe864a3"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/82.json",
+      "sha1": "b93cb0cc10bbd67885fdefb97af65f440b2d2cab"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/83.json",
+      "sha1": "f47a9313491baa4ea472a6a24dc195b474f7a10f"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/84.json",
+      "sha1": "9efb95fbef8b5b542aa4e4ee50c9ab14f201d58a"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/85.json",
+      "sha1": "4a6e21c070ce471fd2ad248f75098f4b5f7b24e2"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/86.json",
+      "sha1": "b7d44a9db9000f25e031f4c15edddc4f17e71571"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/87.json",
+      "sha1": "36cd1f3468b28208536e85777337a566a606819e"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/88.json",
+      "sha1": "c1b74cef869680e015ce3a5207e64b161fe1230f"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/89.json",
+      "sha1": "683cef18c41123940340c1559c1573c2e2bda830"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/90.json",
+      "sha1": "84f432edf0308c7c1ae59771065bfbf2751298c2"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/91.json",
+      "sha1": "40dfba3446e0141246229b51b0d4037a6aa6392f"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/92.json",
+      "sha1": "9ef91fe8f2717e0c9b235173431047f859544f2c"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/93.json",
+      "sha1": "f57c81fafac0573d84f30fda86b834e4c1e225bd"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/94.json",
+      "sha1": "aa788ff61c3addb9f81f65efc0a8d4d19d682252"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/95.json",
+      "sha1": "b26df511014439d3c8ba38af65bc876f9b7095f3"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/96.json",
+      "sha1": "d472042baf53bae7809ffd5cbaab0651223777b8"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/97.json",
+      "sha1": "73c6e5b383799011e9d8c11530f771456eb748d7"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/98.json",
+      "sha1": "34814d2cbd6f36eed31325f63e79f5d4bdf8ef01"
+    },
+    {
+      "path": "src/assets/quran/translation/bn-sheikh-mujibur-rahman/surah/99.json",
+      "sha1": "fdebe374e5a70453694f470e8043ca14acdd631d"
+    },
+    {
+      "path": "src/assets/quran/translation/translations-meta.json",
+      "sha1": "6ddbb36ac825cdc25d8fc820f81047c25e0e52a4"
+    }
+  ]
+}

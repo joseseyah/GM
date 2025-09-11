@@ -1,0 +1,54 @@
+{
+    "id": 6,
+    "title": "Haj & Umrah",
+    "subCats": [
+        {
+            "catId": 6,
+            "id": 1,
+            "title": "The Talbiya for the one doing Haj or Umrah",
+            "uri": "6-1"
+        },
+        {
+            "catId": 6,
+            "id": 2,
+            "title": "The Takbeer passing the black stone",
+            "uri": "6-2"
+        },
+        {
+            "catId": 6,
+            "id": 3,
+            "title": "Between the Yemeni corner and the black stone",
+            "uri": "6-3"
+        },
+        {
+            "catId": 6,
+            "id": 4,
+            "title": "When at Mount Safa and Mount Marwah",
+            "uri": "6-4"
+        },
+        {
+            "catId": 6,
+            "id": 5,
+            "title": "The Day of 'Arafah",
+            "uri": "6-5"
+        },
+        {
+            "catId": 6,
+            "id": 6,
+            "title": "Remembrance at Muzdalifa",
+            "uri": "6-6"
+        },
+        {
+            "catId": 6,
+            "id": 7,
+            "title": "When throwing each pebble at the Jamarat",
+            "uri": "6-7"
+        },
+        {
+            "catId": 6,
+            "id": 8,
+            "title": "When slaughtering or offering a sacrifice",
+            "uri": "6-8"
+        }
+    ]
+}

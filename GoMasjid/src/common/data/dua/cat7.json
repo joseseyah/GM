@@ -1,0 +1,72 @@
+{
+    "id": 7,
+    "title": "Travel",
+    "subCats": [
+        {
+            "catId": 7,
+            "id": 1,
+            "title": "When mounting an animal or any means of transport",
+            "uri": "7-1"
+        },
+        {
+            "catId": 7,
+            "id": 2,
+            "title": "For travel",
+            "uri": "7-2"
+        },
+        {
+            "catId": 7,
+            "id": 3,
+            "title": "Upon entering a town or village",
+            "uri": "7-3"
+        },
+        {
+            "catId": 7,
+            "id": 4,
+            "title": "When entering the market",
+            "uri": "7-4"
+        },
+        {
+            "catId": 7,
+            "id": 5,
+            "title": "When the mounted animal (or mean of transport) stumbles",
+            "uri": "7-5"
+        },
+        {
+            "catId": 7,
+            "id": 6,
+            "title": "Supplication of the traveller for the resident",
+            "uri": "7-6"
+        },
+        {
+            "catId": 7,
+            "id": 7,
+            "title": "Supplication of the resident for the traveller",
+            "uri": "7-7"
+        },
+        {
+            "catId": 7,
+            "id": 8,
+            "title": "Remembrance while ascending or descending",
+            "uri": "7-8"
+        },
+        {
+            "catId": 7,
+            "id": 9,
+            "title": "Prayer of the traveller as dawn approaches",
+            "uri": "7-9"
+        },
+        {
+            "catId": 7,
+            "id": 10,
+            "title": "Stopping or lodging somewhere",
+            "uri": "7-10"
+        },
+        {
+            "catId": 7,
+            "id": 11,
+            "title": "While returning from travel",
+            "uri": "7-11"
+        }
+    ]
+}

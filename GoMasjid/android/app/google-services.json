@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "416819165099",
+    "project_id": "gomasjid-4a35a",
+    "storage_bucket": "gomasjid-4a35a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416819165099:android:387740a5c009d94a9444ee",
+        "android_client_info": {
+          "package_name": "com.spectrum.gomasjid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416819165099-8l8esno8m5co7fvhpptra8c9pvp5v368.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spectrum.gomasjid",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "416819165099-bnmu0ni20qk4phkfs43m33bpvlnlf8kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCekSPbZ7VhmGE2eV_4gr5HXE9LLRlj2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416819165099-bnmu0ni20qk4phkfs43m33bpvlnlf8kg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416819165099-10jv6m4cfrlume7ojgfobdqlko09itub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spectrum.gomasjid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

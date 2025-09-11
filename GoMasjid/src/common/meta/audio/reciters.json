@@ -1,0 +1,67 @@
+[
+  {
+    "id": 9,
+    "name": "Muhammad Siddiq al-Minshawi",
+    "img_url": "https://static.qurancdn.com/images/reciters/7/mohamed-siddiq-el-minshawi-profile.jpeg?v=1",
+    "info": "Muhammad Siddiq al-Minshawi (1920-1969) was a renowned Egyptian qari (reciter of the Quran), known for his distinctive and melodious recitation style. Born in Al Minshah, Egypt, he was part of a family of qaris. Al-Minshawi studied under prominent scholars and became famous for his mastery of the tajweed rules, captivating listeners worldwide. He recorded numerous Quranic recitations, many of which are still widely used in teaching and personal reflection. His legacy continues to inspire Quran reciters today.",
+    "style": "Murattal",
+    "slug": "minshawi-murattal"
+  },
+  {
+    "id": 3,
+    "name": "Abdur-Rahman as-Sudais",
+    "img_url": "https://static.qurancdn.com/images/reciters/2/abdul-rahman-al-sudais-profile.jpeg?v=1",
+    "info": "Abdur-Rahman as-Sudais, born in 1960 in Riyadh, Saudi Arabia, is a prominent Saudi imam and Quran reciter. He is best known as the chief imam of the Grand Mosque in Mecca, a position he has held since 1984. Renowned for his distinctive, melodious voice and mastery of Quranic recitation, as-Sudais has gained global recognition. He is also involved in various Islamic scholarly and philanthropic activities. His recitations are widely circulated and cherished in the Muslim world.",
+    "style": "",
+    "slug": "sudais"
+  },
+  {
+    "id": 7,
+    "name": "Mishari Rashid al-`Afasy",
+    "img_url": "https://static.qurancdn.com/images/reciters/6/mishary-rashid-alafasy-profile.jpeg?v=1",
+    "info": "Mishari Rashid al-'Afasy, born in 1976 in Kuwait, is a renowned Quran reciter, imam, and nasheed artist. Known for his emotional and precise recitation style, he studied at the Islamic University of Madinah. Al-'Afasy leads prayers at the Grand Mosque in Kuwait and frequently appears in international Islamic events. He has released numerous recordings of Quran recitations and Islamic songs, gaining a large following globally. His work continues to inspire and educate Muslims worldwide.",
+    "style": "",
+    "slug": "alafasy"
+  },
+  {
+    "id": 10,
+    "name": "Sa`ud ash-Shuraym",
+    "img_url": "https://static.qurancdn.com/images/reciters/8/saoud-shuraim-profile.jpeg?v=1",
+    "info": "Saud ash-Shuraym (b. 1966) is a prominent Saudi Arabian Islamic scholar and qari. He serves as one of the Imams of the Grand Mosque in Mecca, Masjid al-Haram, and is also a respected judge and a professor at the Umm al-Qura University. Known for his clear and resonant Quranic recitations, ash-Shuraym has gained international recognition. His teachings and sermons are widely followed, and his recitations are broadcast globally, making him a significant figure in the Muslim world",
+    "style": "",
+    "slug": "shuraym"
+  },
+  {
+    "id": 4,
+    "name": "Abu Bakr al-Shatri",
+    "img_url": "https://static.qurancdn.com/images/reciters/3/abu-bakr-al-shatri-pofile.jpeg?v=1",
+    "info": "Abu Bakr al-Shatri, born in 1970 in Jeddah, Saudi Arabia, is a well-known qari and imam. He is celebrated for his soulful and melodic recitation of the Quran, which has gained popularity worldwide. Al-Shatri studied Quranic sciences and obtained an Ijazah in Quran recitation. He leads prayers in various mosques and participates in international Quran recitation competitions and events, contributing to Islamic education and spiritual development.",
+    "style": "",
+    "slug": "shatri"
+  },
+  {
+    "id": 1,
+    "name": "Abdul Basit Abdul Samad (Mujawwad)",
+    "img_url": "https://static.qurancdn.com/images/reciters/1/abdelbasset-profile.jpeg?v=1",
+    "info": "Abdul Basit Abdul Samad (1927-1988) was an iconic Egyptian qari known for his powerful and emotionally resonant recitations of the Quran. Born in Armant, Egypt, he memorized the Quran by age 10 and studied the art of recitation under esteemed teachers. Abdul Basit's clear, melodic voice and mastery of the maqamat made him one of the most famous Quran reciters globally. His recordings are cherished for their spiritual depth and continue to influence Quranic recitation practices.",
+    "style": "Mujawwad",
+    "slug": "abdulbaset-mujawwad"
+  },
+  {
+    "id": 2,
+    "name": "Abdul Basit Abdul Samad (Murattal)",
+    "img_url": "https://static.qurancdn.com/images/reciters/1/abdelbasset-profile.jpeg?v=1",
+    "info": "Abdul Basit Abdul Samad (1927-1988) was an iconic Egyptian qari known for his powerful and emotionally resonant recitations of the Quran. Born in Armant, Egypt, he memorized the Quran by age 10 and studied the art of recitation under esteemed teachers. Abdul Basit's clear, melodic voice and mastery of the maqamat made him one of the most famous Quran reciters globally. His recordings are cherished for their spiritual depth and continue to influence Quranic recitation practices.",
+    "style": "Murattal",
+    "slug": "abdulbaset-murattal"
+  },
+  {
+    "id": 5,
+    "name": "Hani ar-Rifai",
+    "img_url": "https://static.qurancdn.com/images/reciters/4/hani-ar-rifai-profile.jpeg?v=1",
+    "info": "Hani ar-Rifai, born in 1974 in Jeddah, Saudi Arabia, is a distinguished qari and imam, known for his unique and deeply emotional style of Quran recitation. He serves as the imam of the Al-Nasir Mosque in Jeddah. Ar-Rifai's recitations are widely broadcast and popular on various media platforms, inspiring many with his heartfelt delivery. His work in Quranic recitation has made him a prominent figure in the Islamic world, admired for his devotion and vocal prowess.",
+    "style": "",
+    "slug": "rifai"
+  }
+    
+]

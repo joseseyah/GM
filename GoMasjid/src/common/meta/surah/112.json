@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "number": 112,
+        "name": "Al-Ikhlas",
+        "type": "surah",
+        "translated_name": "The Sincerity",
+        "revelation_place": "makkah",
+        "total_ayah": 4,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "112:1",
+            "text_indopak": "قُلۡ هُوَ اللّٰهُ اَحَدٌ​ ۚ‏",
+            "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+            "phonetic_transliterations": "Qul huwal laahu ahad",
+            "tajweed_text": "قُلْ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ أَحَ<tajweed class=qalaqah>د</tajweed>ٌ <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "112:2",
+            "text_indopak": "اَللّٰهُ الصَّمَدُ​ ۚ‏",
+            "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+            "phonetic_transliterations": "Allah hus-samad",
+            "tajweed_text": "ٱللَّهُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّمَ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "112:3",
+            "text_indopak": "لَمۡ يَلِدۡ   ۙ وَلَمۡ يُوۡلَدۡ ۙ‏",
+            "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "phonetic_transliterations": "Lam yalid wa lam yoolad",
+            "tajweed_text": "لَمْ يَلِ<tajweed class=qalaqah>دْ</tajweed> وَلَمْ يُولَ<tajweed class=qalaqah>دْ</tajweed> <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 4,
+            "verse_key": "112:4",
+            "text_indopak": "وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ‏",
+            "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "phonetic_transliterations": "Wa lam yakul-lahu kufuwan ahad",
+            "tajweed_text": "وَلَمْ يَك<tajweed class=idgham_wo_ghunnah>ُن ل</tajweed>َّهُ<tajweed class=madda_normal>ۥ</tajweed> كُفُوًا أَحَ<tajweed class=qalaqah>د</tajweed>ُۢ <span class=end>٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}

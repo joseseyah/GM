@@ -1,0 +1,205 @@
+{
+    "meta": {
+        "number": 96,
+        "name": "Al-Alaq",
+        "type": "surah",
+        "translated_name": "The Clot",
+        "revelation_place": "makkah",
+        "total_ayah": 19,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "96:1",
+            "text_indopak": "اِقۡرَاۡ بِاسۡمِ رَبِّكَ الَّذِىۡ خَلَقَ​ۚ‏",
+            "text_uthmani": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+            "phonetic_transliterations": "Iqra bismi rab bikal lazee khalaq",
+            "tajweed_text": "ٱ<tajweed class=qalaqah>قْ</tajweed>رَأْ بِ<tajweed class=ham_wasl>ٱ</tajweed>سْمِ رَبِّكَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى خَلَ<tajweed class=qalaqah>ق</tajweed>َ <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "96:2",
+            "text_indopak": "خَلَقَ الۡاِنۡسَانَ مِنۡ عَلَقٍ​ۚ‏",
+            "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+            "phonetic_transliterations": "Khalaqal insaana min 'alaq",
+            "tajweed_text": "خَلَقَ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نَ مِنْ عَلَ<tajweed class=qalaqah>ق</tajweed>ٍ <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "96:3",
+            "text_indopak": "اِقۡرَاۡ وَرَبُّكَ الۡاَكۡرَمُۙ‏",
+            "text_uthmani": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+            "phonetic_transliterations": "Iqra wa rab bukal akram",
+            "tajweed_text": "ٱ<tajweed class=qalaqah>قْ</tajweed>رَأْ وَرَبُّكَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَكْرَمُ <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 4,
+            "verse_key": "96:4",
+            "text_indopak": "الَّذِىۡ عَلَّمَ بِالۡقَلَمِۙ‏",
+            "text_uthmani": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+            "phonetic_transliterations": "Al lazee 'allama bil qalam",
+            "tajweed_text": "ٱلَّذِى عَلَّمَ بِ<tajweed class=ham_wasl>ٱ</tajweed>لْقَلَمِ <span class=end>٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 5,
+            "verse_key": "96:5",
+            "text_indopak": "عَلَّمَ الۡاِنۡسَانَ مَا لَمۡ يَعۡلَمۡؕ‏",
+            "text_uthmani": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+            "phonetic_transliterations": "'Al lamal insaana ma lam y'alam",
+            "tajweed_text": "عَلَّمَ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نَ مَا لَمْ يَعْلَمْ <span class=end>٥</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 6,
+            "verse_key": "96:6",
+            "text_indopak": "كَلَّاۤ اِنَّ الۡاِنۡسَانَ لَيَطۡغٰٓىۙ‏",
+            "text_uthmani": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+            "phonetic_transliterations": "Kallaa innal insaana layatghaa",
+            "tajweed_text": "كَلّ<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نَ لَيَ<tajweed class=qalaqah>طْ</tajweed>غَىٰٓ <span class=end>٦</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 7,
+            "verse_key": "96:7",
+            "text_indopak": "اَنۡ رَّاٰهُ اسۡتَغۡنٰىؕ‏",
+            "text_uthmani": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+            "phonetic_transliterations": "Ar-ra aahus taghnaa",
+            "tajweed_text": "أ<tajweed class=idgham_wo_ghunnah>َن ر</tajweed>َّءَاهُ <tajweed class=ham_wasl>ٱ</tajweed>سْتَغْنَىٰٓ <span class=end>٧</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 8,
+            "verse_key": "96:8",
+            "text_indopak": "اِنَّ اِلٰى رَبِّكَ الرُّجۡعٰىؕ‏",
+            "text_uthmani": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+            "phonetic_transliterations": "Innna ilaa rabbikar ruj'aa",
+            "tajweed_text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ إِلَىٰ رَبِّكَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رُّ<tajweed class=qalaqah>جْ</tajweed>عَىٰٓ <span class=end>٨</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 9,
+            "verse_key": "96:9",
+            "text_indopak": "اَرَءَيۡتَ الَّذِىۡ يَنۡهٰىؕ‏",
+            "text_uthmani": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+            "phonetic_transliterations": "Ara-aital lazee yanhaa",
+            "tajweed_text": "أَرَءَيْتَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى يَنْهَىٰ <span class=end>٩</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 10,
+            "verse_key": "96:10",
+            "text_indopak": "عَبۡدًا اِذَا صَلّٰىؕ‏",
+            "text_uthmani": "عَبْدًا إِذَا صَلَّىٰٓ",
+            "phonetic_transliterations": "'Abdan iza sallaa",
+            "tajweed_text": "عَ<tajweed class=qalaqah>بْ</tajweed>دًا إِذَا صَلَّىٰٓ <span class=end>١٠</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 11,
+            "verse_key": "96:11",
+            "text_indopak": "اَرَءَيۡتَ اِنۡ كَانَ عَلَى الۡهُدٰٓىۙ‏",
+            "text_uthmani": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+            "phonetic_transliterations": "Ara-aita in kana 'alal hudaa",
+            "tajweed_text": "أَرَءَيْتَ إِ<tajweed class=ikhafa>ن ك</tajweed>َانَ عَلَى <tajweed class=ham_wasl>ٱ</tajweed>لْهُدَىٰٓ <span class=end>١١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 12,
+            "verse_key": "96:12",
+            "text_indopak": "اَوۡ اَمَرَ بِالتَّقۡوٰىۙ‏",
+            "text_uthmani": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+            "phonetic_transliterations": "Au amara bit taqwaa",
+            "tajweed_text": "أَوْ أَمَرَ بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>تَّ<tajweed class=qalaqah>قْ</tajweed>وَىٰٓ <span class=end>١٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 13,
+            "verse_key": "96:13",
+            "text_indopak": "اَرَءَيۡتَ اِنۡ كَذَّبَ وَتَوَلّٰىؕ‏",
+            "text_uthmani": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+            "phonetic_transliterations": "Ara-aita in kaz zaba wa ta walla",
+            "tajweed_text": "أَرَءَيْتَ إِ<tajweed class=ikhafa>ن ك</tajweed>َذَّبَ وَتَوَلَّىٰٓ <span class=end>١٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 14,
+            "verse_key": "96:14",
+            "text_indopak": "اَلَمۡ يَعۡلَمۡ بِاَنَّ اللّٰهَ يَرٰىؕ‏",
+            "text_uthmani": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+            "phonetic_transliterations": "Alam y'alam bi-an nal lahaa yaraa",
+            "tajweed_text": "أَلَمْ يَعْل<tajweed class=ikhafa_shafawi>َم ب</tajweed>ِأَ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ يَرَىٰ <span class=end>١٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 15,
+            "verse_key": "96:15",
+            "text_indopak": "كَلَّا لَٮِٕنۡ لَّمۡ يَنۡتَهِ  ۙ لَنَسۡفَعًۢا بِالنَّاصِيَةِۙ‏",
+            "text_uthmani": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+            "phonetic_transliterations": "Kalla la illam yantahi la nasfa'am bin nasiyah",
+            "tajweed_text": "كَلَّا لَئ<tajweed class=idgham_wo_ghunnah>ِن ل</tajweed>َّمْ يَ<tajweed class=ikhafa>نت</tajweed>َهِ لَنَسْفَع<tajweed class=iqlab>َۢا ب</tajweed>ِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاصِيَةِ <span class=end>١٥</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 16,
+            "verse_key": "96:16",
+            "text_indopak": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ​ ۚ‏",
+            "text_uthmani": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+            "phonetic_transliterations": "Nasiyatin kazi batin khaatiyah",
+            "tajweed_text": "نَاصِيَ<tajweed class=ikhafa>ةٍ ك</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>ذِبَةٍ خَاطِئَةٍ <span class=end>١٦</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 17,
+            "verse_key": "96:17",
+            "text_indopak": "فَلۡيَدۡعُ نَادِيَهٗ ۙ‏",
+            "text_uthmani": "فَلْيَدْعُ نَادِيَهُۥ",
+            "phonetic_transliterations": "Fal yad'u naadiyah",
+            "tajweed_text": "فَلْيَ<tajweed class=qalaqah>دْ</tajweed>عُ نَادِيَهُۥ <span class=end>١٧</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 18,
+            "verse_key": "96:18",
+            "text_indopak": "سَنَدۡعُ الزَّبَانِيَةَ ۙ‏",
+            "text_uthmani": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+            "phonetic_transliterations": "Sanad 'uz zabaaniyah",
+            "tajweed_text": "سَنَ<tajweed class=qalaqah>دْ</tajweed>عُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>زَّبَانِيَةَ <span class=end>١٨</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 19,
+            "verse_key": "96:19",
+            "text_indopak": "كَلَّا ؕ لَا تُطِعۡهُ وَاسۡجُدۡ وَاقۡتَرِبْ۩‏",
+            "text_uthmani": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+            "phonetic_transliterations": "Kalla; la tuti'hu wasjud waqtarib",
+            "tajweed_text": "كَلَّا لَا تُطِعْهُ وَ<tajweed class=ham_wasl>ٱ</tajweed>سْجُ<tajweed class=qalaqah>دْ</tajweed> وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>قْ</tajweed>تَرِ<tajweed class=qalaqah>ب</tajweed> ۩ <span class=end>١٩</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}

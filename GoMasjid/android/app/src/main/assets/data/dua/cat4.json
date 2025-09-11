@@ -1,0 +1,96 @@
+{
+    "id": 4,
+    "title": "Joy & Sorrow",
+    "subCats": [
+        {
+            "catId": 4,
+            "id": 1,
+            "title": "For anxiety and sorrow",
+            "uri": "4-1"
+        },
+        {
+            "catId": 4,
+            "id": 2,
+            "title": "For one in distress",
+            "uri": "4-2"
+        },
+        {
+            "catId": 4,
+            "id": 3,
+            "title": "Upon encountering an enemy or those of authority",
+            "uri": "4-3"
+        },
+        {
+            "catId": 4,
+            "id": 4,
+            "title": "Invocation against the oppression of rulers",
+            "uri": "4-4"
+        },
+        {
+            "catId": 4,
+            "id": 5,
+            "title": "Against enemies",
+            "uri": "4-5"
+        },
+        {
+            "catId": 4,
+            "id": 6,
+            "title": "When being afraid of a group of people",
+            "uri": "4-6"
+        },
+        {
+            "catId": 4,
+            "id": 7,
+            "title": "For one afflicted with doubt in his faith",
+            "uri": "4-7"
+        },
+        {
+            "catId": 4,
+            "id": 8,
+            "title": "Settling a debt",
+            "uri": "4-8"
+        },
+        {
+            "catId": 4,
+            "id": 9,
+            "title": "For one afflicted by a calamity",
+            "uri": "4-9"
+        },
+        {
+            "catId": 4,
+            "id": 10,
+            "title": "For fear of shirk",
+            "uri": "4-10"
+        },
+        {
+            "catId": 4,
+            "id": 11,
+            "title": "Forbiddance of ascribing things to omens",
+            "uri": "4-11"
+        },
+        {
+            "catId": 4,
+            "id": 12,
+            "title": "What to say upon receiving pleasing or displeasing news",
+            "uri": "4-12"
+        },
+        {
+            "catId": 4,
+            "id": 13,
+            "title": "At times of amazement and delight",
+            "uri": "4-13"
+        },
+        {
+            "catId": 4,
+            "id": 14,
+            "title": "Upon receiving pleasant news",
+            "uri": "4-14"
+        },
+        {
+            "catId": 4,
+            "id": 15,
+            "title": "When startled",
+            "uri": "4-15"
+        }
+    ]
+}

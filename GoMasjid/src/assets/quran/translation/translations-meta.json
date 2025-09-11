@@ -1,0 +1,301 @@
+{
+  "translations": [
+    {
+      "id": 85,
+      "name": "M.A.S. Abdel Haleem",
+      "translator_name": "Abdul Haleem",
+      "slug": "en-haleem",
+      "language_name": "english",
+      "translated_name": {
+        "name": "M.A.S. Abdel Haleem",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 131,
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "translator_name": "Dr. Mustafa Khattab",
+      "slug": "clearquran-mustafa-Khattab",
+      "language_name": "english",
+      "translated_name": {
+        "name": "Dr. Mustafa Khattab",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 84,
+      "name": "T. Usmani",
+      "translator_name": "Mufti Taqi Usmani",
+      "slug": "en-taqi-usmani",
+      "language_name": "english",
+      "translated_name": {
+        "name": "T. Usmani",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 95,
+      "name": "A. Maududi (Tafhim commentary)",
+      "translator_name": "Sayyid Abul Ala Maududi",
+      "slug": "en-al-maududi",
+      "language_name": "english",
+      "translated_name": {
+        "name": "A. Maududi (Tafhim commentary)",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 19,
+      "name": "M. Pickthall",
+      "translator_name": "Mohammed Marmaduke William Pickthall",
+      "slug": "en-pickthall",
+      "language_name": "english",
+      "translated_name": {
+        "name": "M. Pickthall",
+        "language_name": "english"
+      }
+    },
+    { 
+      "id": 22,
+      "name": "A. Yusuf Ali",
+      "translator_name": "Abdullah Yusuf Ali",
+      "slug": "en-yusufali",
+      "language_name": "english",
+      "translated_name": {
+        "name": "A. Yusuf Ali",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Saheeh International",
+      "translator_name": "Saheeh International",
+      "slug": "en-sahih-international",
+      "language_name": "english",
+      "translated_name": {
+        "name": "Saheeh International",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 203,
+      "name": "Al-Hilali & Khan",
+      "translator_name": "Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",
+      "slug": "en-al-hilali",
+      "language_name": "english",
+      "translated_name": {
+        "name": "Al-Hilali & Khan",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 158,
+      "name": "Bayan-ul-Quran",
+      "translator_name": "Dr. Israr Ahmad",
+      "slug": "ur-israr-ahmad",
+      "language_name": "urdu",
+      "translated_name": {
+        "name": "Bayan-ul-Quran (Dr. Israr Ahmad)",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 97,
+      "name": "Tafheem e Qur'an - Syed Abu Ali Maududi",
+      "translator_name": "Syed Abu Ali Maududi",
+      "slug": "ur-al-maududi",
+      "language_name": "urdu",
+      "translated_name": {
+        "name": "Tafheem e Qur'an - Syed Abu Ali Maududi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 122,
+      "name": "Maulana Azizul Haque al-Umari",
+      "translator_name": "Maulana Azizul Haque al-Umari",
+      "slug": "hi-maulana-azizul-haque-al-umari",
+      "language_name": "hindi",
+      "translated_name": {
+        "name": "Maulana Azizul Haque al-Umari",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 163,
+      "name": "Sheikh Mujibur Rahman",
+      "translator_name": "Darussalaam Publication",
+      "slug": "bn-sheikh-mujibur-rahman",
+      "language_name": "bengali",
+      "translated_name": {
+        "name": "Sheikh Mujibur Rahman",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 199,
+      "name": "Noor International Center",
+      "translator_name": "Noor International Center",
+      "slug": "sp-noor-international-center",
+      "language_name": "spanish",
+      "translated_name": {
+        "name": "Noor International Center",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 78,
+      "name": "Ministry of Awqaf, Egypt",
+      "translator_name": "Ministry of Awqaf, Egypt",
+      "slug": "ru-ministry-of-awqaf",
+      "language_name": "russian",
+      "translated_name": {
+        "name": "Ministry of Awqaf, Egypt",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 80,
+      "name": "Muhammad Karakunnu and Vanidas Elayavoor",
+      "translator_name": "Muhammad Karakunnu and Vanidas Elayavoor",
+      "slug": "ml-karakunnu",
+      "language_name": "malayalam",
+      "translated_name": {
+        "name": "Muhammad Karakunnu and Vanidas Elayavoor",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 779,
+      "name": "Rashid Maash",
+      "translator_name": "Rashid Maash",
+      "slug": "fr-rashid-maash",
+      "language_name": "french",
+      "translated_name": {
+        "name": "Rashid Maash",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 135,
+      "name": "IslamHouse.com",
+      "translator_name": "IslamHouse.com",
+      "slug": "persian-islamhouse",
+      "language_name": "persian",
+      "translated_name": {
+        "name": "IslamHouse.com",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Ryoichi Mita",
+      "translator_name": "Ryoichi Mita",
+      "slug": "ja-ryoichi-mita",
+      "language_name": "japanese",
+      "translated_name": {
+        "name": "Ryoichi Mita",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 134,
+      "name": "King Fahad Quran Complex",
+      "translator_name": "King Fahad Quran Complex",
+      "slug": "indonesian-king-fahad",
+      "language_name": "indonesian",
+      "translated_name": {
+        "name": "King Fahad Quran Complex",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 153,
+      "name": "Hamza Roberto Piccardo",
+      "translator_name": "Hamza Roberto Piccardo",
+      "slug": "italian-hamza-roberto-piccardo",
+      "language_name": "italian",
+      "translated_name": {
+        "name": "Hamza Roberto Piccardo",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Elmalili Hamdi Yazir",
+      "translator_name": "Elmalili Hamdi Yazir",
+      "slug": "tr-hamdi",
+      "language_name": "turkish",
+      "translated_name": {
+        "name": "Elmalili Hamdi Yazir",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 133,
+      "name": "Abdul Hameed Baqavi",
+      "translator_name": "Abdul Hameed Baqavi",
+      "slug": "ta-abul-hameed-baqavi",
+      "language_name": "tamil",
+      "translated_name": {
+        "name": "Abdul Hameed Baqavi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 101,
+      "name": "Alauddin Mansour",
+      "translator_name": "Alauddin Mansour",
+      "slug": "uzbek-alauddin-mansour",
+      "language_name": "uzbek",
+      "translated_name": {
+        "name": "Alauddin Mansour",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 227,
+      "name": "Maulana Abder-Rahim ibn Muhammad",
+      "translator_name": "Maulana Abder-Rahim ibn Muhammad",
+      "slug": "tel-adber-rahim",
+      "language_name": "telugu",
+      "translated_name": {
+        "name": "Maulana Abder-Rahim ibn Muhammad",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 233,
+      "name": "Dar Al-Salam Center",
+      "translator_name": "Dar Al-Salam Center",
+      "slug": "hebrew-dar-al-salam-center",
+      "language_name": "hebrew",
+      "translated_name": {
+        "name": "Dar Al-Salam Center",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 225,
+      "name": "Rabila Al-Umry",
+      "translator_name": "Rabila Al-Umry",
+      "slug": "gu-rabila-al-umry",
+      "language_name": "gujarati",
+      "translated_name": {
+        "name": "Rabila Al-Umry",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 235,
+      "name": "Malak Faris Abdalsalaam",
+      "translator_name": "Malak Faris Abdalsalaam",
+      "slug": "dutch-abdalsalaam",
+      "language_name": "dutch",
+      "translated_name": {
+        "name": "Malak Faris Abdalsalaam",
+        "language_name": "english"
+      }
+    }
+  ]
+}

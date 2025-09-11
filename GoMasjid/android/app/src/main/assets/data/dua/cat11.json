@@ -1,0 +1,24 @@
+{
+    "id": 11,
+    "title": "Prayer",
+    "subCats": [
+        {
+            "catId": 11,
+            "id": 1,
+            "title": "When starting ablution",
+            "uri": "11-1"
+        },
+        {
+            "catId": 11,
+            "id": 2,
+            "title": "Upon completing the ablution",
+            "uri": "11-2"
+        },
+        {
+            "catId": 11,
+            "id": 3,
+            "title": "When going to the mosque",
+            "uri": "11-3"
+        }
+    ]
+}

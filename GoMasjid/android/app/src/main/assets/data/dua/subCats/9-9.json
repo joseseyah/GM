@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "duaId": 1,
+            "englishTranslation": "I seek refuge in Allah from Satan the outcast.",
+            "transliteration": "'A 'oothu billaahi minash-Shaytaanir-rajeem.",
+            "arabicVerse": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+            "reference": "[Hisnul 141] [Abu Dawud 1/206, At-Tirmizi.]",
+            "url": "https://admin.gomasjid.co.uk/assets/dua/138hm.mp3"
+        },
+        {
+            "duaId": 2,
+            "englishTranslation": "The azan (Call to prayer).",
+            "transliteration": "",
+            "arabicVerse": "الأذان",
+            "reference": "[Hisnul 142] [Muslim 1/291, Al-Bukhari 1/151.]",
+            "url": "https://admin.gomasjid.co.uk/assets/dua/142hm.mp3"
+        },
+        {
+            "duaId": 3,
+            "englishTranslation": "Recitation of the authentic zikr (remembrance of Allah) and the Qur'an. The Devil is driven out by the invocations for morning and evening, zikr before sleeping and upon waking up, zikr for entering and leaving the house, including those for entering and leaving the mosque, and by many other authentic invocations taught to us by the Prophet (SAW) such as the reading of 'Ayatul-Kursi (Al-Baqarah 2:255), and the last two 'ayat of Surat Al-Baqarah and zikr no. 93 100 times, it will be a protection for him from the Devil throughout the day. Also call to prayer (athan).",
+            "transliteration": "",
+            "arabicVerse": "الأذكار وقراءة القرآن",
+            "reference": "[Hisnul 143] [Muslim 1/539.]",
+            "url": ""
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "number": 101,
+        "name": "Al-Qariah",
+        "type": "surah",
+        "translated_name": "The Calamity",
+        "revelation_place": "makkah",
+        "total_ayah": 11,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "101:1",
+            "text_indopak": "اَلۡقَارِعَةُ ۙ‏",
+            "text_uthmani": " ٱلْقَارِعَةُ",
+            "phonetic_transliterations": "Al qaari'ah",
+            "tajweed_text": "ٱلْقَارِعَةُ <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "101:2",
+            "text_indopak": "مَا الۡقَارِعَةُ​ ۚ‏",
+            "text_uthmani": "مَا ٱلْقَارِعَةُ",
+            "phonetic_transliterations": "Mal qaariah",
+            "tajweed_text": "مَا <tajweed class=ham_wasl>ٱ</tajweed>لْقَارِعَةُ <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "101:3",
+            "text_indopak": "وَمَاۤ اَدۡرٰٮكَ مَا الۡقَارِعَةُ ؕ‏",
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+            "phonetic_transliterations": "Wa maa adraaka mal qaari'ah",
+            "tajweed_text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=qalaqah>دْ</tajweed>رَ<tajweed class=madda_normal>ٮٰ</tajweed>كَ مَا <tajweed class=ham_wasl>ٱ</tajweed>لْقَارِعَةُ <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 4,
+            "verse_key": "101:4",
+            "text_indopak": "يَوۡمَ يَكُوۡنُ النَّاسُ كَالۡفَرَاشِ الۡمَبۡثُوۡثِۙ‏",
+            "text_uthmani": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+            "phonetic_transliterations": "Yauma ya koonun naasu kal farashil mabthooth",
+            "tajweed_text": "يَوْمَ يَكُونُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسُ كَ<tajweed class=ham_wasl>ٱ</tajweed>لْفَرَاشِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَ<tajweed class=qalaqah>بْ</tajweed>ث<tajweed class=madda_permissible>ُو</tajweed>ثِ <span class=end>٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 5,
+            "verse_key": "101:5",
+            "text_indopak": "وَتَكُوۡنُ الۡجِبَالُ كَالۡعِهۡنِ الۡمَنۡفُوۡشِؕ‏",
+            "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+            "phonetic_transliterations": "Wa ta koonul jibalu kal 'ihnil manfoosh",
+            "tajweed_text": "وَتَكُونُ <tajweed class=ham_wasl>ٱ</tajweed>لْجِبَالُ كَ<tajweed class=ham_wasl>ٱ</tajweed>لْعِهْنِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَ<tajweed class=ikhafa>نف</tajweed><tajweed class=madda_permissible>ُو</tajweed>شِ <span class=end>٥</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 6,
+            "verse_key": "101:6",
+            "text_indopak": "فَاَمَّا مَنۡ ثَقُلَتۡ مَوَازِيۡنُهٗ ۙ‏",
+            "text_uthmani": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+            "phonetic_transliterations": "Fa-amma man thaqulat mawa zeenuh",
+            "tajweed_text": "فَأَ<tajweed class=ghunnah>مّ</tajweed>َا مَ<tajweed class=ikhafa>ن ث</tajweed>َقُلَتْ مَو<tajweed class=madda_normal>َٲ</tajweed>زِينُهُۥ <span class=end>٦</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 7,
+            "verse_key": "101:7",
+            "text_indopak": "فَهُوَ فِىۡ عِيۡشَةٍ رَّاضِيَةٍ ؕ‏",
+            "text_uthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+            "phonetic_transliterations": "Fahuwa fee 'ishatir raadiyah",
+            "tajweed_text": "فَهُوَ فِى عِيشَ<tajweed class=idgham_wo_ghunnah>ةٍ ر</tajweed>َّاضِيَةٍ <span class=end>٧</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 8,
+            "verse_key": "101:8",
+            "text_indopak": "وَاَمَّا مَنۡ خَفَّتۡ مَوَازِيۡنُهٗ ۙ‏",
+            "text_uthmani": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+            "phonetic_transliterations": "Wa amma man khaffat mawa zeenuh",
+            "tajweed_text": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا مَنْ خَفَّتْ مَو<tajweed class=madda_normal>َٲ</tajweed>زِينُهُۥ <span class=end>٨</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 9,
+            "verse_key": "101:9",
+            "text_indopak": "فَاُمُّهٗ هَاوِيَةٌ ؕ‏",
+            "text_uthmani": "فَأُمُّهُۥ هَاوِيَةٌ",
+            "phonetic_transliterations": "Fa-ummuhu haawiyah",
+            "tajweed_text": "فَأُ<tajweed class=ghunnah>مّ</tajweed>ُهُ<tajweed class=madda_normal>ۥ</tajweed> هَاوِيَةٌ <span class=end>٩</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 10,
+            "verse_key": "101:10",
+            "text_indopak": "وَمَاۤ اَدۡرٰٮكَ مَا هِيَهۡ ؕ‏",
+            "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+            "phonetic_transliterations": "Wa maa adraaka maa hiyah",
+            "tajweed_text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=qalaqah>دْ</tajweed>رَ<tajweed class=madda_normal>ٮٰ</tajweed>كَ مَا هِيَهْ <span class=end>١٠</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 11,
+            "verse_key": "101:11",
+            "text_indopak": "نَارٌ حَامِيَةٌ‏",
+            "text_uthmani": "نَارٌ حَامِيَةٌۢ",
+            "phonetic_transliterations": "Naarun hamiyah",
+            "tajweed_text": "نَارٌ حَامِيَةُۢ <span class=end>١١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}

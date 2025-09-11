@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "number": 110,
+        "name": "An-Nasr",
+        "type": "surah",
+        "translated_name": "The Divine Support",
+        "revelation_place": "madinah",
+        "total_ayah": 3,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "110:1",
+            "text_indopak": "اِذَا جَآءَ نَصۡرُ اللّٰهِ وَالۡفَتۡحُۙ‏",
+            "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+            "phonetic_transliterations": "Iza jaa-a nas rullahi walfath",
+            "tajweed_text": "إِذَا ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَ نَصْرُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْفَتْحُ <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "110:2",
+            "text_indopak": "وَرَاَيۡتَ النَّاسَ يَدۡخُلُوۡنَ فِىۡ دِيۡنِ اللّٰهِ اَفۡوَاجًا ۙ‏",
+            "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+            "phonetic_transliterations": "Wa ra-aitan naasa yadkhuloona fee deenil laahi afwajah",
+            "tajweed_text": "وَرَأَيْتَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسَ يَ<tajweed class=qalaqah>دْ</tajweed>خُلُونَ فِى دِينِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ أَفْوَاجًا <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "110:3",
+            "text_indopak": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَاسۡتَغۡفِرۡهُ​ ؕ اِنَّهٗ كَانَ تَوَّابًا‏",
+            "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+            "phonetic_transliterations": "Fa sab bih bihamdi rabbika was taghfir, innahu kaana tawwaaba",
+            "tajweed_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>سْتَغْفِرْهُ‌ۚ إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ تَوَّابَۢا <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}

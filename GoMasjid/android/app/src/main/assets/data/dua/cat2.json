@@ -1,0 +1,60 @@
+{   
+    "id": 2,
+    "title": "Praising Allah",
+    "subCats": [
+        {
+            "catId": 2,
+            "id": 1,
+            "title": "For seeking guidance in forming a decision",
+            "uri": "2-1"
+        },
+        {
+            "catId": 2,
+            "id": 2,
+            "title": "For one whos affairs have become difficult",
+            "uri": "2-2"
+        },
+        {
+            "catId": 2,
+            "id": 3,
+            "title": "Upon committing a sin",
+            "uri": "2-3"
+        },
+        {
+            "catId": 2,
+            "id": 4,
+            "title": "When stricken with a mishap or overtaken by an affair",
+            "uri": "2-4"
+        },
+        {
+            "catId": 2,
+            "id": 5,
+            "title": "Protection from the Dajjal",
+            "uri": "2-5"
+        },
+        {
+            "catId": 2,
+            "id": 6,
+            "title": "Excellence of sending prayers upon the Prophet saws",
+            "uri": "2-6"
+        },
+        {
+            "catId": 2,
+            "id": 7,
+            "title": "Seeking forgiveness and repentance",
+            "uri": "2-7"
+        },
+        {
+            "catId": 2,
+            "id": 8,
+            "title": "Excellence of remembrance and glorification of Allah",
+            "uri": "2-8"
+        },
+        {
+            "catId": 2,
+            "id": 9,
+            "title": "How the Prophet made Tasbeeh",
+            "uri": "2-9"
+        }
+    ]
+}

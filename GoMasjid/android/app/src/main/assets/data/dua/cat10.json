@@ -1,0 +1,24 @@
+{
+    "id": 10,
+    "title": "Good & Etiquette",
+    "subCats": [
+        {
+            "catId": 10,
+            "id": 1,
+            "title": "Congratulation on the occasion of a birth",
+            "uri": "10-1"
+        },
+        {
+            "catId": 10,
+            "id": 2,
+            "title": "When insulted while fasting",
+            "uri": "10-2"
+        },
+        {
+            "catId": 10,
+            "id": 3,
+            "title": "Upon sneezing",
+            "uri": "10-3"
+        }
+    ]
+}

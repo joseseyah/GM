@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "duaId": 1,
+            "englishTranslation": "Glory is to Allah.",
+            "transliteration": "Subhaanallaah.",
+            "arabicVerse": "سُبْحَانَ اللَّهِ",
+            "reference": "[Hisnul 240] [Al-Bukhari, Muslim 4/1857.]",
+            "url": "https://admin.gomasjid.co.uk/assets/dua/240hm.mp3"
+        },
+        {
+            "duaId": 2,
+            "englishTranslation": "Allah is the Most Great.",
+            "transliteration": "Allaahu 'Akbar.",
+            "arabicVerse": "اللَّهُ أَكْبَرُ",
+            "reference": "[Hisnul 241] [Al-Bukhari, Ahmad 5/218.]",
+            "url": "https://admin.gomasjid.co.uk/assets/dua/241hm.mp3"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": 8,
+    "title": "Nature",
+    "subCats": [
+        {
+            "catId": 8,
+            "id": 1,
+            "title": "During a wind storm",
+            "uri": "8-1"
+        },
+        {
+            "catId": 8,
+            "id": 2,
+            "title": "Upon hearing thunder",
+            "uri": "8-2"
+        },
+        {
+            "catId": 8,
+            "id": 3,
+            "title": "For rain",
+            "uri": "8-3"
+        },
+        {
+            "catId": 8,
+            "id": 4,
+            "title": "When it rains",
+            "uri": "8-4"
+        },
+        {
+            "catId": 8,
+            "id": 5,
+            "title": "After rainfall",
+            "uri": "8-5"
+        },
+        {
+            "catId": 8,
+            "id": 6,
+            "title": "Asking for clear skies",
+            "uri": "8-6"
+        },
+        {
+            "catId": 8,
+            "id": 7,
+            "title": "Upon sighting the crescent moon",
+            "uri": "8-7"
+        },
+        {
+            "catId": 8,
+            "id": 8,
+            "title": "Upon seeing the early or premature fruit",
+            "uri": "8-8"
+        },
+        {
+            "catId": 8,
+            "id": 9,
+            "title": "Upon hearing a rooster crow or the braying of an ass",
+            "uri": "8-9"
+        },
+        {
+            "catId": 8,
+            "id": 10,
+            "title": "Upon hearing the barking of dogs at night",
+            "uri": "8-10"
+        }
+    ]
+}

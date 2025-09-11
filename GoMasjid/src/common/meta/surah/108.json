@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "number": 108,
+        "name": "Al-Kawthar",
+        "type": "surah",
+        "translated_name": "The Abundance",
+        "revelation_place": "makkah",
+        "total_ayah": 3,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "108:1",
+            "text_indopak": "اِنَّاۤ اَعۡطَيۡنٰكَ الۡكَوۡثَرَؕ‏",
+            "text_uthmani": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+            "phonetic_transliterations": "Innaa a'taina kal kauthar",
+            "tajweed_text": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَعْطَيْنَ<tajweed class=madda_normal>ـٰ</tajweed>كَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَوْثَرَ <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "108:2",
+            "text_indopak": "فَصَلِّ لِرَبِّكَ وَانۡحَرۡ ؕ‏",
+            "text_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+            "phonetic_transliterations": "Fa salli li rabbika wanhar",
+            "tajweed_text": "فَصَلِّ لِرَبِّكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>نْحَرْ <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "108:3",
+            "text_indopak": "اِنَّ شَانِئَكَ هُوَ الۡاَبۡتَرُ‏",
+            "text_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+            "phonetic_transliterations": "Inna shani-aka huwal abtar",
+            "tajweed_text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ شَانِئَكَ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>بْ</tajweed>تَرُ <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "number": 99,
+        "name": "Az-Zalzalah",
+        "type": "surah",
+        "translated_name": "The Earthquake",
+        "revelation_place": "madinah",
+        "total_ayah": 8,
+        "divider": false,
+        "divider_on_ayah": [],
+        "divider_meta": {}
+    },
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_key": "99:1",
+            "text_indopak": "اِذَا زُلۡزِلَتِ الۡاَرۡضُ زِلۡزَالَهَا ۙ‏",
+            "text_uthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+            "phonetic_transliterations": "Izaa zul zilatil ardu zil zaalaha",
+            "tajweed_text": "إِذَا زُلْزِلَتِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضُ زِلْزَالَهَا <span class=end>١</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 2,
+            "verse_key": "99:2",
+            "text_indopak": "وَاَخۡرَجَتِ الۡاَرۡضُ اَثۡقَالَهَا ۙ‏",
+            "text_uthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+            "phonetic_transliterations": "Wa akh rajatil ardu athqaalaha",
+            "tajweed_text": "وَأَخْرَجَتِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضُ أَثْقَالَهَا <span class=end>٢</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 3,
+            "verse_key": "99:3",
+            "text_indopak": "وَقَالَ الۡاِنۡسَانُ مَا لَهَا​ ۚ‏",
+            "text_uthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+            "phonetic_transliterations": "Wa qaalal insaanu ma laha",
+            "tajweed_text": "وَقَالَ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ مَا لَهَا <span class=end>٣</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 4,
+            "verse_key": "99:4",
+            "text_indopak": "يَوۡمَٮِٕذٍ تُحَدِّثُ اَخۡبَارَهَا ۙ‏",
+            "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+            "phonetic_transliterations": "Yawmaa izin tuhad dithu akhbaaraha",
+            "tajweed_text": "يَوْمَئِ<tajweed class=ikhafa>ذٍ ت</tajweed>ُحَدِّثُ أَخْبَارَهَا <span class=end>٤</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 5,
+            "verse_key": "99:5",
+            "text_indopak": "بِاَنَّ رَبَّكَ اَوۡحٰى لَهَا ؕ‏",
+            "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+            "phonetic_transliterations": "Bi-anna rabbaka awhaa laha",
+            "tajweed_text": "بِأَ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ أَوْحَىٰ لَهَا <span class=end>٥</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 6,
+            "verse_key": "99:6",
+            "text_indopak": "يَوۡمَٮِٕذٍ يَّصۡدُرُ النَّاسُ اَشۡتَاتًا  ۙ لِّيُرَوۡا اَعۡمَالَهُمۡؕ‏ ﻿﻿",
+            "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+            "phonetic_transliterations": "Yawma iziy yas durun naasu ash tatal liyuraw a'maalahum",
+            "tajweed_text": "يَوْمَئِ<tajweed class=idgham_ghunnah>ذٍ ي</tajweed>َصْدُرُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسُ أَشْتَا<tajweed class=idgham_wo_ghunnah>تًا ل</tajweed>ِّيُرَوْ<tajweed class=slnt>اْ</tajweed> أَعْمَ<tajweed class=madda_normal>ـٰ</tajweed>لَهُمْ <span class=end>٦</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 7,
+            "verse_key": "99:7",
+            "text_indopak": "فَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًا يَّرَهٗ ؕ‏",
+            "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+            "phonetic_transliterations": "Famaiy ya'mal mithqala zarratin khai raiy-yarah",
+            "tajweed_text": "فَم<tajweed class=idgham_ghunnah>َن ي</tajweed>َعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْ<tajweed class=idgham_ghunnah>رًا ي</tajweed>َرَهُۥ <span class=end>٧</span>",
+            "sajdah": false,
+            "juz_number": 30
+        },
+        {
+            "verse_number": 8,
+            "verse_key": "99:8",
+            "text_indopak": "وَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ‏",
+            "text_uthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+            "phonetic_transliterations": "Wa maiy-y'amal mithqala zarratin sharraiy-yarah",
+            "tajweed_text": "وَم<tajweed class=idgham_ghunnah>َن ي</tajweed>َعْمَلْ مِثْقَالَ ذَرَّ<tajweed class=ikhafa>ةٍ ش</tajweed>َر<tajweed class=idgham_ghunnah>ًّا ي</tajweed>َرَهُۥ <span class=end>٨</span>",
+            "sajdah": false,
+            "juz_number": 30
+        }
+    ]
+}
