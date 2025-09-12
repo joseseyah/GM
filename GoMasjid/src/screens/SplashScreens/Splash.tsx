@@ -9,8 +9,7 @@ import {
 } from 'react-native';
 import { UserContext } from '../../context/UserProvider';
 import { refreshAppData } from '../../services/api';
-
-const { height } = Dimensions.get('window');
+import styles from '../../styles/SplashScreens/Splash';
 
 type RootStackParamList = {
   Splash: undefined;
@@ -87,18 +86,5 @@ const Splash = ({ navigation }: Props) => {
     </View>
   );
 };
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#223F7A',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  logo: {
-    width: 180,
-    top: -60,
-  },
-});
 
 export default Splash;
