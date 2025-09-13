@@ -122,12 +122,12 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 16,
     borderRadius: 12,
     marginBottom: 12,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.05,
-    shadowRadius: 2,
-    elevation: 1,
+    borderWidth: 2,          // 👈 new
+    borderColor: '#1D3F84',  // 👈 new
+    shadowOpacity: 0,        // 👈 optional cleanup
+    elevation: 0,            // 👈 optional cleanup
   },
+  
   
   
   rowText: {
