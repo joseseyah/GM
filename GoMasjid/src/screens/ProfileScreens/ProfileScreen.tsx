@@ -1,13 +1,9 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Image, Platform, TextInput, ActivityIndicator, ScrollView } from 'react-native';
 import { UserContext } from '../../context/UserProvider';
-import Header from '../../common/Header';
-import { themeFont } from '../../styles/theme';
 import { launchImageLibrary, Asset } from 'react-native-image-picker';
 import { uploadProfileImage } from '../../services/s3Upload';
 import { profileUpdate } from '../../services/api';
-import SuccessModal from '../../common/SuccessModal';
-import AlertModal from '../../common/AlertModal';
 import type { ImageLibraryOptions } from 'react-native-image-picker';
 import { Linking } from 'react-native';
 
@@ -178,7 +174,6 @@ const ProfileScreen = ({ navigation }: any) => {
           setIsUploading(false);
             
         } catch (error) {
-          // console.error("Upload failed", error);
         }
       }
     });

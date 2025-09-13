@@ -6,24 +6,14 @@ import {
   PermissionsAndroid,
   FlatList,
   TouchableOpacity,
-  Image,
-  TextInput,
-  BackHandler,
 } from 'react-native';
 import React, {useState, useEffect, useCallback, use, useRef} from 'react';
 import Geolocation from 'react-native-geolocation-service';
 import {fetchMasjidDB, fetchMasjids} from '../../services/api';
-import AntDesign from 'react-native-vector-icons/AntDesign';
-import {themeFont} from '../../styles/theme';
 import { MasjidCard } from './MasjidCard';
-import SidebarMenu from '../../components/sidebar/SidebarMenu';
-import { useFocusEffect } from '@react-navigation/native';
-import useSidebar from '../../hooks/useSidebar';
-import { useSidebarVisibility } from '../../context/SidebarContext';
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
-// import { v4 as uuidv4 } from 'uuid';
+import SearchBar from '../../components/SearchBar';
 
-// console.log('UUID:', uuidv4());
 const GOOGLE_API_KEY = 'AIzaSyCiTTGycmjIVUlPmYVG30Bsf-Ntm4UrbcQ';
 
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
@@ -201,16 +191,12 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
         debounce={300}
         enablePoweredByContainer={false}
         keyboardShouldPersistTaps="always" 
-        // nearbyPlacesAPI="GooglePlacesSearch"
         query={{
           key: GOOGLE_API_KEY,
           language: 'en',
           types: 'mosque',
-          // types: 'geocode',
           keyword: 'mosque',
-          // components: 'country:uk',
         }}
-        // predefinedPlacesAlwaysVisible={false}
         predefinedPlaces={[]}
         textInputProps={{
           onFocus: () => {}, 
@@ -220,17 +206,10 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
         onNotFound={() => {console.warn('No places found'); setSearchErrMsg('No Masjid found');}}
         onPress={async (data, details = null) => {
           if (details?.geometry?.location) {
-            // console.log('Selected Place Details:', details);
-            // console.log('Name:', details.name);
-            // console.log('Lat:', details.geometry.location.lat);
-            // console.log('Lng:', details.geometry.location.lng);
-
             const data = {
               name: details.name,
               address: details.formatted_address || '',
               latitude: details.geometry.location.lat,
-              // latitude: '17.354536056518555',
-              // longitude: '78.46966552734375',
               longitude: details.geometry.location.lng, 
               url: details.url || '',
             }
@@ -251,27 +230,57 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
             }
           
           } else {
-            // console.warn('No details received');
             setSearchVisible(false);
             setSearchMasjidData(false);
             setSearchErrMsg('No details received for the selected place.');
           }
         }}
         styles={{
+          textInputContainer: {
+            flexDirection: 'row',
+            alignItems: 'center',
+            backgroundColor: '#fff',
+            borderRadius: 30,
+            paddingHorizontal: 12,
+            marginTop: 8,
+            shadowColor: '#000',
+            shadowOpacity: 0.05,
+            shadowOffset: { width: 0, height: 2 },
+            shadowRadius: 4,
+            elevation: 2, 
+            borderWidth: 2,
+            borderColor: '#1D3F84',
+          },
           textInput: {
-            borderRadius: 25,
-            paddingHorizontal: 10,
+            flex: 1,
             height: 44,
             color: '#000',
+            fontSize: 15,
+            paddingHorizontal: 8,
           },
           description: {
             color: '#000',
+            fontSize: 14,
           },
           listView: {
-            maxHeight: 600,
+            maxHeight: 500,
             backgroundColor: '#fff',
+            borderRadius: 12,
+            marginTop: 6,
+            borderWidth: 1,
+            borderColor: '#EAEAEA',
+            elevation: 2,
+          },
+          row: {
+            paddingVertical: 12,
+            paddingHorizontal: 16,
+            flexDirection: 'row',
+            alignItems: 'center',
+            borderBottomWidth: 1,
+            borderBottomColor: '#F0F0F0',
           },
         }}
+        
       />
     </View>
   );
@@ -288,9 +297,6 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
           <FontAwesome5 name="search" size={18} color="#223F7A" />
         </TouchableOpacity>
       </View>
-
-
-  
       {/* Location Row */}
 
       <View style={styles.locationRow}>
@@ -298,9 +304,6 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
         <Text style={styles.locationText}>{city || 'Loading...'}</Text>
       </View>
 
-
-
-  
       {/* Search */}
       {searchVisible && renderSearchBar()}
   
