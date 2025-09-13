@@ -6,7 +6,10 @@ export const prayertimes = StyleSheet.create({
     marginHorizontal: 16,
     marginBottom: 16,
     backgroundColor: "#f9f9f9",
+    borderWidth: 2,          // 👈 add this
+    borderColor: "#1D3F84",  // 👈 blue outline
   },
+  
 
   mosqueContainer: {
     padding: 14,

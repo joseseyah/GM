@@ -6,9 +6,10 @@ export const styles = StyleSheet.create({
     flexDirection: "row",
     height: 87,
     justifyContent: "space-between",
-    paddingHorizontal: 4,
-    width: 375,
+    paddingHorizontal: 16, // a bit more padding looks better
+    width: "100%",          // 👈 responsive
   },
+  
   navigationMenuItem: {
     alignItems: "center",
     flexDirection: "column",
@@ -38,6 +39,8 @@ export const styles = StyleSheet.create({
     backgroundColor: "#F6F6F6", // Replace var(--grey-200)
     borderRadius: 9,
     padding: 15,
+    borderColor: "#1D3F84",
+    borderWidth: 2,
   },
   textWrapper: {
     color: "#223F7A", // dark blue
