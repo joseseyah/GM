@@ -18,7 +18,7 @@ import { SheetManager } from 'react-native-actions-sheet';
 
 const GOOGLE_API_KEY = 'AIzaSyCiTTGycmjIVUlPmYVG30Bsf-Ntm4UrbcQ';
 
-import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 
 
 interface Masjid {
@@ -294,18 +294,18 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
         <Text style={styles.headerTitle}>Mosques</Text>
         <TouchableOpacity
           onPress={() => SheetManager.show('search_sheet')}
-          style={styles.headerIconButton}
+          style={styles.headerIconButton} // we'll update the style below
         >
-          <FontAwesome5 name="search" size={18} color="#223F7A" />
+          <FontAwesome name="search" size={20} color="#000" />
         </TouchableOpacity>
 
       </View>
       {/* Location Row */}
 
-      <View style={styles.locationRow}>
+      {/* <View style={styles.locationRow}>
         <FontAwesome5 name="map-marker-alt" size={14} color="#202020" style={styles.locationIcon} />
         <Text style={styles.locationText}>{city || 'Loading...'}</Text>
-      </View>
+      </View> */}
 
       {/* Search */}
       {/* {searchVisible && renderSearchBar()} */}
@@ -356,28 +356,33 @@ export default Masjid;
 const styles = StyleSheet.create({
   headerRow: {
     flexDirection: 'row',
-    justifyContent: 'space-between',
     alignItems: 'center',
-    marginTop: Platform.OS === 'ios' ? 60 : 40,
-    paddingHorizontal: 28,
-    marginBottom: 16,
+    justifyContent: 'space-between',
+  
+    // XXL padding
+    paddingHorizontal: 40,                           // was 28
+    paddingTop: Platform.OS === 'ios' ? 88 : 56,     // was 64 / 32
+    paddingBottom: 24,                                // was 18
   },
   
   headerTitle: {
-    fontSize: 28,
+    fontSize: 32,
     fontWeight: '700',
     color: '#000',
-    fontFamily: 'System',
   },
   
   headerIconButton: {
-    width: 44,
-    height: 44,
-    borderRadius: 22,
-    backgroundColor: '#E8EDF7',
+    width: 40,         // tiny bump so it feels balanced with bigger padding
+    height: 40,
+    borderRadius: 30,
+    backgroundColor: '#F1F1F1',
     justifyContent: 'center',
     alignItems: 'center',
+    marginLeft: 10,    // a bit more breathing room from the title
   },
+  
+
+  
   
   container: {
     flex: 1,
