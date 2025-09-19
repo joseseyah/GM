@@ -40,7 +40,7 @@ const SearchSheet = () => {
               backgroundColor: '#F2F4F7',
               borderRadius: 16,
               paddingHorizontal: 14,
-              height: 40,               // thick
+              height: 40,        
               shadowColor: '#000',
               shadowOpacity: 0.06,
               shadowRadius: 6,

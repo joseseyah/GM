@@ -13,6 +13,8 @@ import {fetchMasjidDB, fetchMasjids} from '../../services/api';
 import { MasjidCard } from './MasjidCard';
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 import SearchBar from '../../components/SearchBar';
+import { SheetManager } from 'react-native-actions-sheet';
+
 
 const GOOGLE_API_KEY = 'AIzaSyCiTTGycmjIVUlPmYVG30Bsf-Ntm4UrbcQ';
 
@@ -291,11 +293,12 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
       <View style={styles.headerRow}>
         <Text style={styles.headerTitle}>Mosques</Text>
         <TouchableOpacity
-          onPress={() => setSearchVisible(true)}
+          onPress={() => SheetManager.show('search_sheet')}
           style={styles.headerIconButton}
         >
           <FontAwesome5 name="search" size={18} color="#223F7A" />
         </TouchableOpacity>
+
       </View>
       {/* Location Row */}
 
@@ -305,7 +308,9 @@ const Masjid = React.memo(({navigation, route, props}: any) => {
       </View>
 
       {/* Search */}
-      {searchVisible && renderSearchBar()}
+      {/* {searchVisible && renderSearchBar()} */}
+
+      
   
       {/* Content */}
       {errorMessage ? (
