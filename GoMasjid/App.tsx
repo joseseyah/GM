@@ -18,6 +18,7 @@ import EditFacilitiesSheet from './src/screens/MasjidAdmin/EditFacilitiesSheet';
 import EditSalahSheet from './src/screens/MasjidAdmin/EditSalahSheet';
 import UpdateSalahTimeSheet from './src/screens/MasjidAdmin/UpdateSalahTimeSheet';
 import UpdatemasjidInfoSheet from './src/screens/MasjidAdmin/UpdatemasjidInfoSheet';
+import SearchSheet from './src/screens/Search/search';
 
 // ✅ Register bottom sheets
 registerSheet('qibla_sheet', QiblaSheet);
@@ -28,6 +29,7 @@ registerSheet('edit_facilities_sheet', EditFacilitiesSheet);
 registerSheet('salah_times_sheet', EditSalahSheet);
 registerSheet('upload_salah_times_sheet', UpdateSalahTimeSheet)
 registerSheet('update_masjid_info_sheet', UpdatemasjidInfoSheet)
+registerSheet('search_sheet', SearchSheet)
 
 
 // ✅ Ignore warning logs

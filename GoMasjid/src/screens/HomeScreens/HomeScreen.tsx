@@ -1,35 +1,21 @@
-import React, { useCallback, useContext, useEffect, useRef, useState } from 'react';
+import React, { useCallback, useContext, useEffect, useState } from 'react';
 import {
   View,
   Text,
-  StyleSheet,
-  Image,
   Dimensions,
-  TextInput,
   BackHandler,
   Platform,
   PermissionsAndroid,
-  FlatList,
-  TouchableOpacity,
   ActivityIndicator,
 } from 'react-native';
-import { themeFont } from '../../styles/theme';
-import HamburgerHeader from '../../common/HamburgerHeader';
 import { useFocusEffect } from '@react-navigation/native';
 import useSidebar from '../../hooks/useSidebar';
 import moment from 'moment';
 import Geolocation from 'react-native-geolocation-service';
 import { userDashboard } from '../../services/api';
 import { UserContext } from '../../context/UserProvider';
-import SidebarMenu from '../../components/sidebar/SidebarMenu';
-import Feather from 'react-native-vector-icons/Feather';
-import FontAwesome6 from 'react-native-vector-icons/FontAwesome6';
-import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-import { MosquesIcon } from '../../components/icons';
-// import { ScrollView } from 'react-native-gesture-handler';
 import { ScrollView } from 'react-native';
 import PushNotifications from './PushNotifications';
-import LinearGradient from 'react-native-linear-gradient';
 import {formattedHijri} from '../../common/HijriDate';
 import AlertModal from '../../common/AlertModal';
 import { useSidebarVisibility } from '../../context/SidebarContext';
@@ -37,16 +23,12 @@ import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 import { EventRegister } from 'react-native-event-listeners';
 
-
-
 import styles from '../../styles/home/homescreen'
 import { NavigationMenu } from "./lasthird";
 import { Heading } from "./Headings";
 import { Graphic } from "./graphic";
 import PrayerTimes from "./Prayertimes";
 
-import { SheetManager } from 'react-native-actions-sheet';
-import QiblaSheet from './qibla';
 import { RefreshControl } from 'react-native';
 
 import LocationSwitcher from './LocationSwitcher';
@@ -56,8 +38,6 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import { getLocalPrayerTimes } from '../../services/prayercalculation';
 
-const { width, height } = Dimensions.get('window');
-
 
 const HomeScreen = ({ navigation, route }: any) => {
 
@@ -65,7 +45,9 @@ const HomeScreen = ({ navigation, route }: any) => {
   const [openAccordionIndex, setOpenAccordionIndex] = useState<number | null>(null);
   const [timeLeft, setTimeLeft] = useState<string>('');
   const [bgImage, setBgImage] = useState<any>(null);
-  const [salahData, setSalahData] = useState<any>([]);
+
+  const [salahData, setSalahData] = useState<any>({ salah_timing: [] });
+
   const [currentSalah, setCurrentSalah] = useState<string>('');
   const [nextSalah, setNextSalah] = useState<string>('');
   const [bgColor, setBgColor] = useState<string>('');
@@ -149,7 +131,6 @@ const HomeScreen = ({ navigation, route }: any) => {
     const lastThird = moment(adhanTimes.lastThird, "HH:mm");
     const sunrise = moment(adhanTimes.sunrise, "HH:mm");
   
-    // 🌙 Highlight special phases
     if (now.isSameOrAfter(midnight) && now.isBefore(lastThird)) {
       setCurrentSalah("midnight");
       setNextSalah("last third");
@@ -185,7 +166,6 @@ const HomeScreen = ({ navigation, route }: any) => {
       }
     }
   
-    // ⏰ After Isha: wrap to next day
     const first = salahTiming[0];
     const last = salahTiming[salahTiming.length - 1];
     const tomorrowAzan = moment(first.azan, 'HH:mm').add(1, 'day');
@@ -265,9 +245,18 @@ const HomeScreen = ({ navigation, route }: any) => {
 
   const handleFetchData = async (latitude: number, longitude: number) => {
     const data = await userDashboard(latitude, longitude, userInfo?.userToken);
-    setSalahData(data || []);
+  
+    console.log("📡 Raw API result:", data, "lat:", latitude, "lon:", longitude, "token:", userInfo?.userToken);
+  
+    setSalahData({
+      ...data,
+      salah_timing: data?.salah_timing || []
+    });
+  
     setLoading(false);
   };
+  
+
 
   const getCityFromCoords = async (latitude: number, longitude: number) => {
     try {
@@ -308,8 +297,6 @@ const HomeScreen = ({ navigation, route }: any) => {
     }
   };
   
-
-
   // // Use the sidebar hook
   const { isSidebarVisible, openSidebar, closeSidebar, toggleSidebar } = useSidebar();
   const { setVisible } = useSidebarVisibility();
@@ -416,7 +403,7 @@ const HomeScreen = ({ navigation, route }: any) => {
             </View>
   
             {/* Prayer Times */}
-            <PrayerTimes
+            {/* <PrayerTimes
               viewType={selectedLocation === 'Location' ? 'location' : 'mosque'}
               currentSalah={currentSalah}
               salahTiming={
@@ -426,7 +413,19 @@ const HomeScreen = ({ navigation, route }: any) => {
               }
               setModalVisible={setModalVisible}
               adhanTimes={adhanTimes}
+            /> */}
+
+            <PrayerTimes
+              viewType={selectedLocation === 'Location' ? 'location' : 'mosque'}
+              currentSalah={currentSalah}
+              salahTiming={
+                selectedLocation === 'Location'
+                  ? salahData.salah_timing
+                  : customPrayerTimes[selectedLocation]?.salah_timing || []
+              }
+              setModalVisible={setModalVisible}
             />
+
 
 
             <NavigationMenu

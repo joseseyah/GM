@@ -12,15 +12,14 @@ interface SalahTiming {
 interface PrayerTimesProps {
   viewType: "location" | "mosque";
   currentSalah?: string;
-  salahTiming: SalahTiming[];
+  salahTiming?: SalahTiming[]; // 👈 make optional, since we’ll default it
   setModalVisible: (visible: boolean) => void;
 }
-
 
 const PrayerTimes = ({
   viewType,
   currentSalah = "",
-  salahTiming,
+  salahTiming = [], // 👈 default to empty array
   setModalVisible,
 }: PrayerTimesProps): React.ReactElement => {
   const formattedTime = (time: string) =>
